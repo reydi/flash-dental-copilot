@@ -44,15 +44,15 @@ def flow(title: str, steps: list[tuple[str, str]]) -> dict:
     }
 
 
-# The after-sales service flow, matching the org_business_flow document.
+# The after-sales service flow — the seven steps from Flash Dental's own product brief.
 BUSINESS_FLOW_STEPS = [
-    ("Clinic", "reports a fault"),
-    ("Support", "opens the ticket"),
-    ("Coordinator", "triages & dispatches"),
-    ("Warehouse", "ships the spare part"),
-    ("Technician", "repairs on-site"),
-    ("Manager", "tracks cycle time"),
-    ("Finance", "reconciles warranty"),
+    ("Report in", "CS logs the ticket & picks the serial"),
+    ("Triage", "asset profile, warranty & history shown"),
+    ("Assign", "supervisor sets priority & technician"),
+    ("Visit", "technician arrives & diagnoses"),
+    ("Resolve", "action, spare part, photos, result"),
+    ("Verify", "customer confirms, supervisor signs off"),
+    ("Close", "ticket closed → asset history"),
 ]
 
 
