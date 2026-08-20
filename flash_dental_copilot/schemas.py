@@ -16,13 +16,15 @@ class AskRequest(BaseModel):
 
 
 class AskResponse(BaseModel):
-    """A grounded (or abstained) answer, its citation, and the computed KPIs."""
+    """A computed, retrieved, or abstained answer — with its citation and KPIs."""
     domain: str
     question: str
+    answer_kind: str  # "computed" (aggregate), "retrieved" (grounded lookup), or "abstained"
     abstained: bool
     similarity_score: float
     answer_text: str
     citation_document_id: Optional[str]
+    computation_detail: Optional[str]
     kpi_summary: str
     pii_masking_example: str
     computed_by_code_note: str

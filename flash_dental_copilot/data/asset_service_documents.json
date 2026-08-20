@@ -31,6 +31,16 @@
       "text": "Invoice INV-2023-118: dental unit serial FD-1042 (model DC-300) purchased 2023-06-15 for Rp 85,000,000; sold by sales rep Rina Putri; installed at Klinik Sehat, Surabaya."
     },
     {
+      "document_id": "faq_warranty_check",
+      "category": "policy",
+      "text": "How to check a unit's warranty: find its sales invoice for the purchase date; the main machine is covered for 2 years and components for 1 year. A unit past those dates is out of warranty and its repairs are billable."
+    },
+    {
+      "document_id": "faq_spare_parts",
+      "category": "policy",
+      "text": "Spare parts stocked in the warehouse include suction motors, hydraulic seals, footcovers, water hoses, and handpieces. A spare-part stockout is the main cause of a long wait between a reported fault and the repair."
+    },
+    {
       "document_id": "manual_suction_motor",
       "category": "manual",
       "text": "Troubleshooting suction motor failure: the usual root cause is a clogged suction filter. Inspect and replace the suction motor to prevent a repeat visit."
@@ -409,6 +419,7 @@
   "preset_questions": [
     "asset FD-1042 keeps failing — show its service history",
     "who sold FD-1042 and when was it purchased?",
+    "how many units have overdue maintenance?",
     "what is the wifi password"
   ]
 }

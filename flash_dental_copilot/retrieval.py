@@ -12,6 +12,8 @@ import math
 import re
 from dataclasses import dataclass
 
+import snowballstemmer
+
 # Terms that carry no retrieval signal; dropped before scoring.
 STOP_WORDS = frozenset({
     "the", "a", "an", "is", "are", "was", "for", "of", "on", "in", "to", "and",
@@ -21,6 +23,8 @@ STOP_WORDS = frozenset({
 })
 
 _ALPHANUMERIC_TERM_PATTERN = re.compile(r"[a-z0-9]+")
+# Stem so morphological variants collide: fail/fails/failing, goal/goals, unit/units.
+_ENGLISH_STEMMER = snowballstemmer.stemmer("english")
 
 
 @dataclass(frozen=True)
@@ -42,13 +46,14 @@ class RankedDocument:
 
 
 def tokenize_into_terms(text: str) -> list[str]:
-    """Lowercase, split into alphanumeric terms, drop stop-words and single characters."""
+    """Lowercase, split into alphanumeric terms, drop stop-words, and stem the rest."""
     candidate_terms = _ALPHANUMERIC_TERM_PATTERN.findall(text.lower())
-    return [
+    meaningful_terms = [
         term
         for term in candidate_terms
         if len(term) > 1 and term not in STOP_WORDS
     ]
+    return _ENGLISH_STEMMER.stemWords(meaningful_terms)
 
 
 def compute_inverse_document_frequencies(document_texts: list[str]) -> dict[str, float]:

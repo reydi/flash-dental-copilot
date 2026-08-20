@@ -57,6 +57,16 @@ def test_answer_always_carries_a_pii_masked_example():
     assert "Yudi Pratama" not in body["pii_masking_example"]
 
 
+def test_analytical_question_is_computed_not_retrieved():
+    response = client.post(
+        "/ask", json={"domain": "assets", "question": "how many units have overdue maintenance?"}
+    )
+    body = response.json()
+    assert body["answer_kind"] == "computed"
+    assert body["abstained"] is False
+    assert any(character.isdigit() for character in body["answer_text"])
+
+
 def test_unknown_domain_returns_404():
     response = client.post("/ask", json={"domain": "spaceships", "question": "hello"})
     assert response.status_code == 404

@@ -29,8 +29,11 @@ def test_rare_term_has_higher_inverse_document_frequency_than_common_term():
         "hydraulic seal replaced",
     ]
     inverse_document_frequencies = compute_inverse_document_frequencies(document_texts)
+    # Look terms up by their stemmed form, since tokenizing stems everything.
+    (rare_term,) = tokenize_into_terms("hydraulic")
+    (common_term,) = tokenize_into_terms("replaced")
     # "hydraulic" appears in one doc, "replaced" in all three -> hydraulic weighs more.
-    assert inverse_document_frequencies["hydraulic"] > inverse_document_frequencies["replaced"]
+    assert inverse_document_frequencies[rare_term] > inverse_document_frequencies[common_term]
 
 
 def test_empty_text_embeds_to_empty_vector():

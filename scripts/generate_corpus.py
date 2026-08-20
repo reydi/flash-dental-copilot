@@ -95,14 +95,23 @@ def build_generated_technician_documents() -> list[dict]:
     ]
 
 
-# Miss one first-time-fix in every N finished jobs: Yudi 1-in-7 (~86%), others 1-in-4 (75%).
-# Deterministic so the computed KPIs are stable and reconcile with the narrative docs.
-FIRST_TIME_FIX_MISS_EVERY = {"Yudi Pratama": 7}
-DEFAULT_FIRST_TIME_FIX_MISS_EVERY = 4
+# Miss one first-time-fix in every N finished jobs — distinct per technician so
+# rankings are meaningful: Yudi ~87%, Dedi ~83%, Febri 80%, Arga 75%, Arman ~67%.
+FIRST_TIME_FIX_MISS_EVERY = {
+    "Yudi Pratama": 8,
+    "Dedi Kurniawan": 6,
+    "Febri Santoso": 5,
+    "Arga Wibowo": 4,
+    "Arman Hakim": 3,
+}
+# Job categories, weighted toward everyday service and maintenance.
+JOB_CATEGORIES = ["service", "maintenance", "installation", "survey", "training"]
+JOB_CATEGORY_WEIGHTS = [40, 30, 14, 9, 7]
+OVERDUE_MAINTENANCE_COUNT = 9
 
 
 def build_service_tickets(random_generator: random.Random) -> list[dict]:
-    """Structured tickets that compute to ~80% first-time-fix overall, ~85% for Yudi."""
+    """Structured tickets: distinct per-technician first-time-fix, plus a job category."""
     tickets: list[dict] = []
     finished_jobs_per_technician: dict[str, int] = {}
     for sequence_number in range(1, SERVICE_TICKET_COUNT + 1):
@@ -112,9 +121,7 @@ def build_service_tickets(random_generator: random.Random) -> list[dict]:
         )[0]
         is_outstanding = sequence_number <= OUTSTANDING_JOB_COUNT
         finished_index = finished_jobs_per_technician.get(technician_name, 0)
-        miss_every = FIRST_TIME_FIX_MISS_EVERY.get(
-            technician_name, DEFAULT_FIRST_TIME_FIX_MISS_EVERY
-        )
+        miss_every = FIRST_TIME_FIX_MISS_EVERY.get(technician_name, 4)
         was_fixed_first_visit = not is_outstanding and finished_index % miss_every != 0
         if not is_outstanding:
             finished_jobs_per_technician[technician_name] = finished_index + 1
@@ -125,8 +132,24 @@ def build_service_tickets(random_generator: random.Random) -> list[dict]:
             "was_fixed_first_visit": was_fixed_first_visit,
             "cycle_time_days": random_generator.randint(2, 13),
             "status": "outstanding" if is_outstanding else "finished",
+            "job_category": random_generator.choices(JOB_CATEGORIES, weights=JOB_CATEGORY_WEIGHTS, k=1)[0],
         })
     return tickets
+
+
+def build_maintenance_schedule(random_generator: random.Random) -> list[dict]:
+    """One preventive-maintenance record per unit, a fixed number already overdue."""
+    schedule: list[dict] = []
+    for sequence_number in range(1, GENERATED_UNIT_COUNT + 1):
+        is_overdue = sequence_number <= OVERDUE_MAINTENANCE_COUNT
+        due_month = random_generator.randint(1, 12)
+        due_year = 2025 if is_overdue else 2026
+        schedule.append({
+            "unit_serial": generate_unit_serial(sequence_number),
+            "next_maintenance_due": f"{due_year}-{due_month:02d}-15",
+            "is_overdue": is_overdue,
+        })
+    return schedule
 
 
 def write_json_file(filename: str, payload) -> None:
@@ -158,10 +181,12 @@ def main() -> None:
         {"documents": technician_documents, "preset_questions": TECHNICIAN_PRESET_QUESTIONS},
     )
     write_json_file("service_tickets.json", build_service_tickets(random_generator))
+    write_json_file("maintenance_schedule.json", build_maintenance_schedule(random_generator))
     print(
         f"Wrote {len(asset_documents)} asset documents, "
         f"{len(technician_documents)} technician documents, "
-        f"and {SERVICE_TICKET_COUNT} service tickets to {DATA_DIRECTORY}."
+        f"{SERVICE_TICKET_COUNT} service tickets, and "
+        f"{GENERATED_UNIT_COUNT} maintenance records to {DATA_DIRECTORY}."
     )
 
 

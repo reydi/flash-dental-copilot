@@ -19,6 +19,7 @@ class ServiceTicket:
     was_fixed_first_visit: bool
     cycle_time_days: int
     status: str
+    job_category: str = "service"
 
 
 def _round_to_one_decimal(value: float) -> float:
