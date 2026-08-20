@@ -1,0 +1,414 @@
+{
+  "documents": [
+    {
+      "document_id": "service_log_FD-1042_2024-03",
+      "category": "service_log",
+      "text": "Dental unit FD-1042 (model DC-300) at Klinik Sehat, Surabaya. 2024-03 service: suction motor failure; replaced the suction motor; resolved same visit."
+    },
+    {
+      "document_id": "service_log_FD-1042_2024-09",
+      "category": "service_log",
+      "text": "Dental unit FD-1042 (model DC-300) service 2024-09: hydraulic leak on the chair; sealed the hydraulic line; resolved same visit."
+    },
+    {
+      "document_id": "service_log_FD-1042_2025-01",
+      "category": "service_log",
+      "text": "Dental unit FD-1042 (model DC-300) service 2025-01: suction motor failure recurred, the third time; replaced the suction motor; resolved same visit."
+    },
+    {
+      "document_id": "manual_DC-300_suction",
+      "category": "manual",
+      "text": "DC-300 suction motor: recurring failure is usually caused by a clogged filter; check and replace the filter on every service to prevent repeats."
+    },
+    {
+      "document_id": "warranty_rule_general",
+      "category": "warranty_rule",
+      "text": "Main machine warranty is 2 years from installation; components are 1 year. The suction motor is treated as a component, so it is out of warranty after the first year."
+    },
+    {
+      "document_id": "invoice_FD-1042",
+      "category": "invoice",
+      "text": "Invoice INV-2023-118: dental unit serial FD-1042 (model DC-300) purchased 2023-06-15 for Rp 85,000,000; sold by sales rep Rina Putri; installed at Klinik Sehat, Surabaya."
+    },
+    {
+      "document_id": "manual_suction_motor",
+      "category": "manual",
+      "text": "Troubleshooting suction motor failure: the usual root cause is a clogged suction filter. Inspect and replace the suction motor to prevent a repeat visit."
+    },
+    {
+      "document_id": "manual_hydraulic_seal",
+      "category": "manual",
+      "text": "Troubleshooting hydraulic leak on the chair: the usual root cause is a worn hydraulic seal. Inspect and replace the hydraulic seal to prevent a repeat visit."
+    },
+    {
+      "document_id": "manual_footcover",
+      "category": "manual",
+      "text": "Troubleshooting footcover cracked: the usual root cause is material fatigue on the footcover. Inspect and replace the footcover to prevent a repeat visit."
+    },
+    {
+      "document_id": "manual_water_hose",
+      "category": "manual",
+      "text": "Troubleshooting low-speed water hose misrouted: the usual root cause is a split low-speed water hose. Inspect and replace the water hose to prevent a repeat visit."
+    },
+    {
+      "document_id": "manual_panoramic_adaptor",
+      "category": "manual",
+      "text": "Troubleshooting panoramic adaptor dead: the usual root cause is a failed S60 panoramic adaptor. Inspect and replace the panoramic adaptor to prevent a repeat visit."
+    },
+    {
+      "document_id": "manual_compressor_filter",
+      "category": "manual",
+      "text": "Troubleshooting compressor overheating: the usual root cause is a blocked compressor filter. Inspect and replace the compressor filter to prevent a repeat visit."
+    },
+    {
+      "document_id": "manual_handpiece",
+      "category": "manual",
+      "text": "Troubleshooting handpiece not spinning: the usual root cause is worn handpiece bearings. Inspect and replace the handpiece to prevent a repeat visit."
+    },
+    {
+      "document_id": "service_log_EX92026030001",
+      "category": "service_log",
+      "text": "Dental unit EX92026030001 (model DC-500) at drg. Zeddin Ronald, Tarakan. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030001",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030001 (model DC-500), installed at drg. Zeddin Ronald, Tarakan."
+    },
+    {
+      "document_id": "service_log_EX92026030002",
+      "category": "service_log",
+      "text": "Dental unit EX92026030002 (model DC-300) at drg. Riris, Ketapang. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030002",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030002 (model DC-300), installed at drg. Riris, Ketapang."
+    },
+    {
+      "document_id": "service_log_EX92026030003",
+      "category": "service_log",
+      "text": "Dental unit EX92026030003 (model A4-Cart) at drg. Billy, Karawang. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030003",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030003 (model A4-Cart), installed at drg. Billy, Karawang."
+    },
+    {
+      "document_id": "service_log_EX92026030004",
+      "category": "service_log",
+      "text": "Dental unit EX92026030004 (model DC-500) at drg. Ni Made Zatphika, Purbalingga. Reported low-speed water hose misrouted; replaced the water hose; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030004",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030004 (model DC-500), installed at drg. Ni Made Zatphika, Purbalingga."
+    },
+    {
+      "document_id": "service_log_EX92026030005",
+      "category": "service_log",
+      "text": "Dental unit EX92026030005 (model DC-500) at drg. Riris, Ketapang. Reported compressor overheating; replaced the compressor filter; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030005",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030005 (model DC-500), installed at drg. Riris, Ketapang."
+    },
+    {
+      "document_id": "service_log_EX92026030006",
+      "category": "service_log",
+      "text": "Dental unit EX92026030006 (model DC-500) at drg. Muhammad Adnen, Bekasi. Reported panoramic adaptor dead; replaced the panoramic adaptor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030006",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030006 (model DC-500), installed at drg. Muhammad Adnen, Bekasi."
+    },
+    {
+      "document_id": "service_log_EX92026030007",
+      "category": "service_log",
+      "text": "Dental unit EX92026030007 (model A4-Cart) at drg. Andi Iskandar, Nunukan. Reported suction motor failure; replaced the suction motor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030007",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030007 (model A4-Cart), installed at drg. Andi Iskandar, Nunukan."
+    },
+    {
+      "document_id": "service_log_EX92026030008",
+      "category": "service_log",
+      "text": "Dental unit EX92026030008 (model DC-300) at drg. Riris, Ketapang. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030008",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030008 (model DC-300), installed at drg. Riris, Ketapang."
+    },
+    {
+      "document_id": "service_log_EX92026030009",
+      "category": "service_log",
+      "text": "Dental unit EX92026030009 (model A4-Cart) at drg. Androw Tandean, Medan. Reported compressor overheating; replaced the compressor filter; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030009",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030009 (model A4-Cart), installed at drg. Androw Tandean, Medan."
+    },
+    {
+      "document_id": "service_log_EX92026030010",
+      "category": "service_log",
+      "text": "Dental unit EX92026030010 (model S60-Panoramic) at drg. Ni Made Zatphika, Purbalingga. Reported panoramic adaptor dead; replaced the panoramic adaptor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030010",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030010 (model S60-Panoramic), installed at drg. Ni Made Zatphika, Purbalingga."
+    },
+    {
+      "document_id": "service_log_EX92026030011",
+      "category": "service_log",
+      "text": "Dental unit EX92026030011 (model DC-500) at drg. Karolina Br Kaban, Pontianak. Reported hydraulic leak on the chair; replaced the hydraulic seal; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030011",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030011 (model DC-500), installed at drg. Karolina Br Kaban, Pontianak."
+    },
+    {
+      "document_id": "service_log_EX92026030012",
+      "category": "service_log",
+      "text": "Dental unit EX92026030012 (model DC-500) at drg. Ni Made Zatphika, Purbalingga. Reported suction motor failure; replaced the suction motor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030012",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030012 (model DC-500), installed at drg. Ni Made Zatphika, Purbalingga."
+    },
+    {
+      "document_id": "service_log_EX92026030013",
+      "category": "service_log",
+      "text": "Dental unit EX92026030013 (model DC-500) at drg. Iffah, Klinik Darusyifa Mulia, Jakarta Selatan. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030013",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030013 (model DC-500), installed at drg. Iffah, Klinik Darusyifa Mulia, Jakarta Selatan."
+    },
+    {
+      "document_id": "service_log_EX92026030014",
+      "category": "service_log",
+      "text": "Dental unit EX92026030014 (model S60-Panoramic) at RS Fatmawati, Jakarta Selatan. Reported low-speed water hose misrouted; replaced the water hose; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030014",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030014 (model S60-Panoramic), installed at RS Fatmawati, Jakarta Selatan."
+    },
+    {
+      "document_id": "service_log_EX92026030015",
+      "category": "service_log",
+      "text": "Dental unit EX92026030015 (model S60-Panoramic) at drg. Lidya, Banjarbaru. Reported hydraulic leak on the chair; replaced the hydraulic seal; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030015",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030015 (model S60-Panoramic), installed at drg. Lidya, Banjarbaru."
+    },
+    {
+      "document_id": "service_log_EX92026030016",
+      "category": "service_log",
+      "text": "Dental unit EX92026030016 (model A6-Cart) at drg. Cecilia Angelina, PIK Jakarta Utara. Reported low-speed water hose misrouted; replaced the water hose; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030016",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030016 (model A6-Cart), installed at drg. Cecilia Angelina, PIK Jakarta Utara."
+    },
+    {
+      "document_id": "service_log_EX92026030017",
+      "category": "service_log",
+      "text": "Dental unit EX92026030017 (model DC-300) at drg. Karolina Br Kaban, Pontianak. Reported suction motor failure; replaced the suction motor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030017",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030017 (model DC-300), installed at drg. Karolina Br Kaban, Pontianak."
+    },
+    {
+      "document_id": "service_log_EX92026030018",
+      "category": "service_log",
+      "text": "Dental unit EX92026030018 (model S60-Panoramic) at drg. Muhammad Adnen, Bekasi. Reported handpiece not spinning; replaced the handpiece; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030018",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030018 (model S60-Panoramic), installed at drg. Muhammad Adnen, Bekasi."
+    },
+    {
+      "document_id": "service_log_EX92026030019",
+      "category": "service_log",
+      "text": "Dental unit EX92026030019 (model A6-Cart) at RS Fatmawati, Jakarta Selatan. Reported panoramic adaptor dead; replaced the panoramic adaptor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030019",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030019 (model A6-Cart), installed at RS Fatmawati, Jakarta Selatan."
+    },
+    {
+      "document_id": "service_log_EX92026030020",
+      "category": "service_log",
+      "text": "Dental unit EX92026030020 (model DC-500) at drg. Lidya, Banjarbaru. Reported handpiece not spinning; replaced the handpiece; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030020",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030020 (model DC-500), installed at drg. Lidya, Banjarbaru."
+    },
+    {
+      "document_id": "service_log_EX92026030021",
+      "category": "service_log",
+      "text": "Dental unit EX92026030021 (model DC-500) at drg. Iffah, Klinik Darusyifa Mulia, Jakarta Selatan. Reported low-speed water hose misrouted; replaced the water hose; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030021",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030021 (model DC-500), installed at drg. Iffah, Klinik Darusyifa Mulia, Jakarta Selatan."
+    },
+    {
+      "document_id": "service_log_EX92026030022",
+      "category": "service_log",
+      "text": "Dental unit EX92026030022 (model Tealth-Lite) at drg. Annisa, Klinik QSmile, Tanjung Pinang. Reported suction motor failure; replaced the suction motor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030022",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030022 (model Tealth-Lite), installed at drg. Annisa, Klinik QSmile, Tanjung Pinang."
+    },
+    {
+      "document_id": "service_log_EX92026030023",
+      "category": "service_log",
+      "text": "Dental unit EX92026030023 (model S60-Panoramic) at drg. Karolina Br Kaban, Pontianak. Reported handpiece not spinning; replaced the handpiece; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030023",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030023 (model S60-Panoramic), installed at drg. Karolina Br Kaban, Pontianak."
+    },
+    {
+      "document_id": "service_log_EX92026030024",
+      "category": "service_log",
+      "text": "Dental unit EX92026030024 (model DC-500) at drg. Cecilia Angelina, PIK Jakarta Utara. Reported compressor overheating; replaced the compressor filter; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030024",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030024 (model DC-500), installed at drg. Cecilia Angelina, PIK Jakarta Utara."
+    },
+    {
+      "document_id": "service_log_EX92026030025",
+      "category": "service_log",
+      "text": "Dental unit EX92026030025 (model A6-Cart) at RS Fatmawati, Jakarta Selatan. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030025",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030025 (model A6-Cart), installed at RS Fatmawati, Jakarta Selatan."
+    },
+    {
+      "document_id": "service_log_EX92026030026",
+      "category": "service_log",
+      "text": "Dental unit EX92026030026 (model DC-500) at drg. Annisa, Klinik QSmile, Tanjung Pinang. Reported handpiece not spinning; replaced the handpiece; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030026",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030026 (model DC-500), installed at drg. Annisa, Klinik QSmile, Tanjung Pinang."
+    },
+    {
+      "document_id": "service_log_EX92026030027",
+      "category": "service_log",
+      "text": "Dental unit EX92026030027 (model DC-500) at drg. Ni Made Zatphika, Purbalingga. Reported hydraulic leak on the chair; replaced the hydraulic seal; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030027",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030027 (model DC-500), installed at drg. Ni Made Zatphika, Purbalingga."
+    },
+    {
+      "document_id": "service_log_EX92026030028",
+      "category": "service_log",
+      "text": "Dental unit EX92026030028 (model Tealth-Lite) at drg. Annisa, Klinik QSmile, Tanjung Pinang. Reported hydraulic leak on the chair; replaced the hydraulic seal; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030028",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030028 (model Tealth-Lite), installed at drg. Annisa, Klinik QSmile, Tanjung Pinang."
+    },
+    {
+      "document_id": "service_log_EX92026030029",
+      "category": "service_log",
+      "text": "Dental unit EX92026030029 (model DC-300) at drg. Ni Made Zatphika, Purbalingga. Reported hydraulic leak on the chair; replaced the hydraulic seal; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030029",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030029 (model DC-300), installed at drg. Ni Made Zatphika, Purbalingga."
+    },
+    {
+      "document_id": "service_log_EX92026030030",
+      "category": "service_log",
+      "text": "Dental unit EX92026030030 (model DC-500) at drg. Andi Iskandar, Nunukan. Reported suction motor failure; replaced the suction motor; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030030",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030030 (model DC-500), installed at drg. Andi Iskandar, Nunukan."
+    },
+    {
+      "document_id": "service_log_EX92026030031",
+      "category": "service_log",
+      "text": "Dental unit EX92026030031 (model S60-Panoramic) at drg. Karolina Br Kaban, Pontianak. Reported low-speed water hose misrouted; replaced the water hose; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030031",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030031 (model S60-Panoramic), installed at drg. Karolina Br Kaban, Pontianak."
+    },
+    {
+      "document_id": "service_log_EX92026030032",
+      "category": "service_log",
+      "text": "Dental unit EX92026030032 (model Tealth-Lite) at drg. Andi Iskandar, Nunukan. Reported compressor overheating; replaced the compressor filter; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030032",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030032 (model Tealth-Lite), installed at drg. Andi Iskandar, Nunukan."
+    },
+    {
+      "document_id": "service_log_EX92026030033",
+      "category": "service_log",
+      "text": "Dental unit EX92026030033 (model A6-Cart) at drg. Androw Tandean, Medan. Reported footcover cracked; replaced the footcover; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030033",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030033 (model A6-Cart), installed at drg. Androw Tandean, Medan."
+    },
+    {
+      "document_id": "service_log_EX92026030034",
+      "category": "service_log",
+      "text": "Dental unit EX92026030034 (model S60-Panoramic) at drg. Kartini, Surabaya. Reported low-speed water hose misrouted; replaced the water hose; resolved on the visit."
+    },
+    {
+      "document_id": "invoice_EX92026030034",
+      "category": "invoice",
+      "text": "Sales invoice for dental unit EX92026030034 (model S60-Panoramic), installed at drg. Kartini, Surabaya."
+    }
+  ],
+  "preset_questions": [
+    "asset FD-1042 keeps failing — show its service history",
+    "who sold FD-1042 and when was it purchased?",
+    "what is the wifi password"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "documents": [
+    {
+      "document_id": "tech_yudi_june",
+      "category": "monthly_log",
+      "text": "Technician Yudi Pratama June log: closed 16 jobs across Jabodetabek and out-of-town Kalimantan (Tarakan, Nunukan). First-time-fix on 14 of 16 jobs. Two jobs still waiting on spare parts."
+    },
+    {
+      "document_id": "tech_yudi_review",
+      "category": "review_note",
+      "text": "Yudi Pratama review note: carries most of the out-of-town installs; flagged that spare-part stockouts are his single biggest delay; strong ownership on the Kalimantan trips."
+    },
+    {
+      "document_id": "tech_dedi_june",
+      "category": "monthly_log",
+      "text": "Technician Dedi Kurniawan June log: closed 10 jobs, mostly Jabodetabek service and scheduled maintenance; first-time-fix on 9 of 10; one job outstanding on a water-hose stockout."
+    },
+    {
+      "document_id": "tech_roster_balance",
+      "category": "roster_note",
+      "text": "Roster balance: out-of-town jobs concentrate on Yudi Pratama. If he is unavailable, Kalimantan coverage is a risk — spread the out-of-town roster across technicians."
+    },
+    {
+      "document_id": "tech_febri_june",
+      "category": "monthly_log",
+      "text": "Technician Febri Santoso June log: closed 8 jobs, mostly Jabodetabek service and scheduled maintenance."
+    },
+    {
+      "document_id": "tech_arga_june",
+      "category": "monthly_log",
+      "text": "Technician Arga Wibowo June log: closed 5 jobs, mostly Jabodetabek service and scheduled maintenance."
+    },
+    {
+      "document_id": "tech_arman_june",
+      "category": "monthly_log",
+      "text": "Technician Arman Hakim June log: closed 3 jobs, mostly Jabodetabek service and scheduled maintenance."
+    }
+  ],
+  "preset_questions": [
+    "how many jobs did Yudi close and his first-time-fix",
+    "which technician has an outstanding job right now",
+    "what is Yudi's home address"
+  ]
+}
