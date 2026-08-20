@@ -22,6 +22,7 @@ from flash_dental_copilot.grounding import (
     GroundedAnswer,
     select_grounded_answer,
 )
+from flash_dental_copilot.intent_reranking import reorder_by_intent
 from flash_dental_copilot.pii_redaction import redact_personally_identifiable_information
 from flash_dental_copilot.question_router import answer_analytical_question
 from flash_dental_copilot.answer_policy import (
@@ -141,6 +142,7 @@ def _score_and_ground(domain_name: str, question: str) -> tuple[float, GroundedA
     ranked_documents = rank_indexed_documents_by_relevance(
         question, corpus.indexed_documents, corpus.inverse_document_frequencies
     )
+    ranked_documents = reorder_by_intent(question, ranked_documents)
     top_score = ranked_documents[0].similarity_score if ranked_documents else 0.0
     return top_score, select_grounded_answer(ranked_documents)
 

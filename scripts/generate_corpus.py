@@ -30,7 +30,6 @@ from scripts.employee_directory import (
     build_employee_directory,
     build_people_domain_documents,
 )
-from scripts.org_entities import ORG_PRESET_QUESTIONS
 
 DATA_DIRECTORY = (
     Path(__file__).resolve().parent.parent / "flash_dental_copilot" / "data"
@@ -168,7 +167,7 @@ def main() -> None:
         "technician_performance_documents.json",
         {
             "documents": technician_documents,
-            "preset_questions": TECHNICIAN_PRESET_QUESTIONS + ORG_PRESET_QUESTIONS,
+            "preset_questions": TECHNICIAN_PRESET_QUESTIONS,
         },
     )
     write_json_file(

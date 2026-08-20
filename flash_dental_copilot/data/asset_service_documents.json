@@ -41,6 +41,26 @@
       "text": "Spare parts stocked in the warehouse include suction motors, hydraulic seals, footcovers, water hoses, and handpieces. A spare-part stockout is the main cause of a long wait between a reported fault and the repair."
     },
     {
+      "document_id": "faq_spare_part_lead_time",
+      "category": "policy",
+      "text": "A spare part typically ships in 7 to 17 days across the archipelago; when the warehouse is out of stock, that lead time is the top cause of the wait between a reported fault and its repair."
+    },
+    {
+      "document_id": "pattern_DC-300_warranty_end",
+      "category": "pattern",
+      "text": "DC-300 units tend to fail close to their warranty end date. Review a DC-300 before a renewal so a repair that is about to become billable is not wrongly honoured as warranty."
+    },
+    {
+      "document_id": "faq_install_training",
+      "category": "policy",
+      "text": "A new dental unit is installed on-site, then covered by scheduled preventive maintenance. After installation, technicians also run basic training for the clinic's staff on daily care and cleaning."
+    },
+    {
+      "document_id": "faq_warranty_length",
+      "category": "policy",
+      "text": "How long is the warranty on a dental unit? The main machine is covered for 2 years from installation, and its components for 1 year. After that the unit is out of warranty and its repairs are billable."
+    },
+    {
       "document_id": "manual_suction_motor",
       "category": "manual",
       "text": "Troubleshooting suction motor failure: the usual root cause is a clogged suction filter. Inspect and replace the suction motor to prevent a repeat visit."
@@ -2504,7 +2524,9 @@
   "preset_questions": [
     "asset FD-1042 keeps failing — show its service history",
     "who sold FD-1042 and when was it purchased?",
+    "how long is the warranty on a dental unit?",
     "how many units have overdue maintenance?",
-    "what is the wifi password"
+    "what is the wifi password?",
+    "what's the capital of France?"
   ]
 }

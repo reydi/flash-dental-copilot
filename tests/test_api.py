@@ -27,6 +27,16 @@ def test_asset_story_question_returns_a_grounded_cited_answer():
     assert "warranty" in body["kpi_summary"]
 
 
+def test_who_sold_question_prefers_the_invoice_over_the_service_log():
+    response = client.post(
+        "/ask",
+        json={"domain": "assets", "question": "who sold FD-1042 and when was it purchased?"},
+    )
+    body = response.json()
+    assert body["abstained"] is False
+    assert body["citation_document_id"] == "invoice_FD-1042"
+
+
 def test_out_of_scope_question_abstains():
     response = client.post(
         "/ask", json={"domain": "assets", "question": "what is the wifi password"}

@@ -118,6 +118,14 @@ CANONICAL_ASSET_DOCUMENTS = [
      "text": "How to check a unit's warranty: find its sales invoice for the purchase date; the main machine is covered for 2 years and components for 1 year. A unit past those dates is out of warranty and its repairs are billable."},
     {"document_id": "faq_spare_parts", "category": "policy",
      "text": "Spare parts stocked in the warehouse include suction motors, hydraulic seals, footcovers, water hoses, and handpieces. A spare-part stockout is the main cause of a long wait between a reported fault and the repair."},
+    {"document_id": "faq_spare_part_lead_time", "category": "policy",
+     "text": "A spare part typically ships in 7 to 17 days across the archipelago; when the warehouse is out of stock, that lead time is the top cause of the wait between a reported fault and its repair."},
+    {"document_id": "pattern_DC-300_warranty_end", "category": "pattern",
+     "text": "DC-300 units tend to fail close to their warranty end date. Review a DC-300 before a renewal so a repair that is about to become billable is not wrongly honoured as warranty."},
+    {"document_id": "faq_install_training", "category": "policy",
+     "text": "A new dental unit is installed on-site, then covered by scheduled preventive maintenance. After installation, technicians also run basic training for the clinic's staff on daily care and cleaning."},
+    {"document_id": "faq_warranty_length", "category": "policy",
+     "text": "How long is the warranty on a dental unit? The main machine is covered for 2 years from installation, and its components for 1 year. After that the unit is out of warranty and its repairs are billable."},
 ]
 
 # Hand-authored technician records so "how is Yudi doing" always retrieves.
@@ -132,18 +140,26 @@ CANONICAL_TECHNICIAN_DOCUMENTS = [
      "text": "Roster balance: out-of-town jobs concentrate on Yudi Pratama. If he is unavailable, Kalimantan coverage is a risk — spread the out-of-town roster across technicians."},
     {"document_id": "tech_coverage", "category": "overview",
      "text": "Coverage: Yudi Pratama handles most of the out-of-town Kalimantan and Sumatra work; Jabodetabek jobs spread across Dedi Kurniawan, Febri Santoso, Arga Wibowo, and Arman Hakim."},
+    {"document_id": "tech_arman_note", "category": "review_note",
+     "text": "Technician Arman Hakim has the lowest first-time-fix on the team this period. Pair him with a senior on complex jobs and review his diagnostic steps before he leaves for a callout."},
 ]
 
+# A deliberate mix: on-topic questions that should be answered, and off-topic /
+# PII questions that should be refused — so the demo shows the copilot discriminating.
 ASSET_PRESET_QUESTIONS = [
     "asset FD-1042 keeps failing — show its service history",
     "who sold FD-1042 and when was it purchased?",
+    "how long is the warranty on a dental unit?",
     "how many units have overdue maintenance?",
-    "what is the wifi password",
+    "what is the wifi password?",
+    "what's the capital of France?",
 ]
 
 TECHNICIAN_PRESET_QUESTIONS = [
     "who is the least-performing technician this period?",
-    "how many jobs did Yudi close and his first-time-fix",
-    "which technician has an outstanding job right now",
-    "what is Yudi's home address",
+    "how many field technicians do we have?",
+    "which clinics did Yudi service?",
+    "who dispatches a technician to a reported fault?",
+    "what is Yudi's home address?",
+    "who is the best football player?",
 ]
