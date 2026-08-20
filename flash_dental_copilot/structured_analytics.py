@@ -54,3 +54,15 @@ def count_overdue_maintenance(
 ) -> int:
     """How many units are past their scheduled preventive-maintenance date."""
     return sum(1 for record in maintenance_schedule if record.is_overdue)
+
+
+def list_clinics_for_technician(
+    service_tickets: list[ServiceTicket], technician_name: str
+) -> list[tuple[str, str]]:
+    """The distinct (clinic, city) pairs a technician has serviced, alphabetical."""
+    clinics = {
+        (ticket.clinic_name, ticket.city)
+        for ticket in service_tickets
+        if ticket.technician_name == technician_name and ticket.clinic_name
+    }
+    return sorted(clinics)

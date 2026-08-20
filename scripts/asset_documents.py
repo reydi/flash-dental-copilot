@@ -16,15 +16,28 @@ def generate_unit_serial(sequence_number: int) -> str:
     return f"EX9202603{sequence_number:04d}"
 
 
+def build_unit_registry(random_generator: random.Random, unit_count: int) -> list[dict]:
+    """Assign each unit its model, clinic, and city once — shared by docs and tickets."""
+    return [
+        {
+            "serial": generate_unit_serial(sequence_number),
+            "model": random_generator.choice(SERVICE_MODELS),
+            "clinic_name": (clinic := random_generator.choice(DENTAL_CLINICS))[0],
+            "city": clinic[1],
+        }
+        for sequence_number in range(1, unit_count + 1)
+    ]
+
+
 def build_generated_asset_documents(
-    random_generator: random.Random, unit_count: int, sales_representative_names: list[str]
+    random_generator: random.Random, unit_registry: list[dict], sales_representative_names: list[str]
 ) -> list[dict]:
-    """One service-log document per generated unit, plus a matching, sales-attributed invoice."""
+    """One service-log document per registered unit, plus a matching, sales-attributed invoice."""
     generated_documents: list[dict] = []
-    for sequence_number in range(1, unit_count + 1):
-        unit_serial = generate_unit_serial(sequence_number)
-        model = random_generator.choice(SERVICE_MODELS)
-        clinic_name, city = random_generator.choice(DENTAL_CLINICS)
+    for unit in unit_registry:
+        unit_serial, model, clinic_name, city = (
+            unit["serial"], unit["model"], unit["clinic_name"], unit["city"]
+        )
         complaint, spare_part, _root_cause = random_generator.choice(FAULT_SYMPTOMS)
         sales_representative = random_generator.choice(sales_representative_names)
         purchase_year = random_generator.choice([2021, 2022, 2023, 2024])

@@ -20,6 +20,8 @@ class ServiceTicket:
     cycle_time_days: int
     status: str
     job_category: str = "service"
+    clinic_name: str = ""
+    city: str = ""
 
 
 def _round_to_one_decimal(value: float) -> float:

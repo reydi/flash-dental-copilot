@@ -24,6 +24,11 @@ from flash_dental_copilot.grounding import (
 )
 from flash_dental_copilot.pii_redaction import redact_personally_identifiable_information
 from flash_dental_copilot.question_router import answer_analytical_question
+from flash_dental_copilot.answer_policy import (
+    REFUSAL_TEXT,
+    asks_for_sensitive_personal_data,
+    visualization_for_citation,
+)
 from flash_dental_copilot.retrieval import rank_indexed_documents_by_relevance
 from flash_dental_copilot.schemas import AskRequest, AskResponse
 from flash_dental_copilot.service_records import (
@@ -97,6 +102,13 @@ def answer_question(ask_request: AskRequest) -> AskResponse:
             **shared_fields, answer_kind="computed", abstained=False, similarity_score=1.0,
             answer_text=computed_answer.answer_text, citation_document_id=None,
             computation_detail=computed_answer.computation_detail,
+            visualization=computed_answer.visualization,
+        )
+
+    if asks_for_sensitive_personal_data(ask_request.question):
+        return AskResponse(
+            **shared_fields, answer_kind="abstained", abstained=True, similarity_score=0.0,
+            answer_text=REFUSAL_TEXT, citation_document_id=None, computation_detail=None,
         )
 
     grounded_answer, hint_domain = _route_within_or_across_domains(
@@ -115,6 +127,7 @@ def answer_question(ask_request: AskRequest) -> AskResponse:
         similarity_score=round(grounded_answer.similarity_score, 3),
         answer_text=grounded_answer.answer_text,
         citation_document_id=grounded_answer.citation_document_id, computation_detail=None,
+        visualization=visualization_for_citation(grounded_answer.citation_document_id),
     )
 
 

@@ -41,6 +41,35 @@ def test_headcount_question_defers_when_no_directory_is_supplied():
     assert answer_analytical_question("how many field technicians?", TICKETS, SCHEDULE) is None
 
 
+CLINIC_TICKETS = [
+    ServiceTicket("T1", "EX9a", "Yudi Pratama", True, 5, "finished", "service", "Klinik Sehat", "Surabaya"),
+    ServiceTicket("T2", "EX9b", "Yudi Pratama", True, 5, "finished", "service", "drg. Lidya", "Banjarbaru"),
+    ServiceTicket("T3", "EX9c", "Dedi Kurniawan", True, 5, "finished", "service", "RS Fatmawati", "Jakarta"),
+]
+
+
+def test_clinics_for_technician_lists_them_as_a_card_visualization():
+    answer = answer_analytical_question("which clinics did Yudi handle?", CLINIC_TICKETS, SCHEDULE)
+    assert answer is not None
+    assert "2 clinics" in answer.answer_text
+    assert answer.visualization["kind"] == "list"
+    assert len(answer.visualization["items"]) == 2
+
+
+def test_irrelevant_who_best_question_is_not_treated_as_a_ranking():
+    assert answer_analytical_question("who are the best football player", TICKETS, SCHEDULE) is None
+
+
+def test_ranking_answer_carries_a_bar_visualization():
+    answer = answer_analytical_question("who is the worst technician?", TICKETS, SCHEDULE)
+    assert answer is not None and answer.visualization["kind"] == "bar"
+
+
+def test_overdue_answer_carries_a_stat_visualization():
+    answer = answer_analytical_question("how many overdue maintenance?", TICKETS, SCHEDULE)
+    assert answer is not None and answer.visualization["kind"] == "stat"
+
+
 def test_delayed_maintenance_question_is_computed():
     answer = answer_analytical_question("how many delayed maintenance do we have?", TICKETS, SCHEDULE)
     assert answer is not None and "1" in answer.answer_text

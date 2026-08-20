@@ -86,6 +86,33 @@ def test_org_role_question_retrieves_the_business_flow_document():
     assert "dispatch" in body["answer_text"].lower()
 
 
+def test_sensitive_personal_data_question_is_refused():
+    response = client.post(
+        "/ask", json={"domain": "technicians", "question": "what is Yudi's home address"}
+    )
+    body = response.json()
+    assert body["abstained"] is True
+    assert "access-controlled" in body["answer_text"]
+
+
+def test_computed_answer_carries_a_visualization():
+    response = client.post(
+        "/ask", json={"domain": "assets", "question": "how many units have overdue maintenance?"}
+    )
+    body = response.json()
+    assert body["visualization"] is not None
+    assert body["visualization"]["kind"] == "stat"
+
+
+def test_irrelevant_question_abstains_without_a_visualization():
+    response = client.post(
+        "/ask", json={"domain": "technicians", "question": "who are the best football player"}
+    )
+    body = response.json()
+    assert body["abstained"] is True
+    assert body["visualization"] is None
+
+
 def test_unknown_domain_returns_404():
     response = client.post("/ask", json={"domain": "spaceships", "question": "hello"})
     assert response.status_code == 404

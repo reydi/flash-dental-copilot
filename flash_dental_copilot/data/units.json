@@ -1,0 +1,1442 @@
+[
+  {
+    "serial": "EX92026030001",
+    "model": "Tealth-Pro",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030002",
+    "model": "DC-500",
+    "clinic_name": "drg. Wulan",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030003",
+    "model": "DC-600",
+    "clinic_name": "drg. Ni Made Zatphika",
+    "city": "Purbalingga"
+  },
+  {
+    "serial": "EX92026030004",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030005",
+    "model": "DC-500",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030006",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Ferry",
+    "city": "Balikpapan"
+  },
+  {
+    "serial": "EX92026030007",
+    "model": "Tealth-Pro",
+    "clinic_name": "Klinik Gigi Senyum",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030008",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Reza",
+    "city": "Padang"
+  },
+  {
+    "serial": "EX92026030009",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030010",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030011",
+    "model": "A6-Cart",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030012",
+    "model": "Tealth-Lite",
+    "clinic_name": "RS Fatmawati",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030013",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Wulan",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030014",
+    "model": "DC-300",
+    "clinic_name": "drg. Reza",
+    "city": "Padang"
+  },
+  {
+    "serial": "EX92026030015",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030016",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030017",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030018",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Zeddin Ronald",
+    "city": "Tarakan"
+  },
+  {
+    "serial": "EX92026030019",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030020",
+    "model": "DC-500",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030021",
+    "model": "A8-Cart",
+    "clinic_name": "Klinik Kendari Gigi",
+    "city": "Kendari"
+  },
+  {
+    "serial": "EX92026030022",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Hasrul",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030023",
+    "model": "A8-Cart",
+    "clinic_name": "Klinik Gigi Senyum",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030024",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Hasrul",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030025",
+    "model": "DC-500",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030026",
+    "model": "DC-600",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030027",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030028",
+    "model": "DC-600",
+    "clinic_name": "drg. Wulan",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030029",
+    "model": "A4-Cart",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030030",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030031",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030032",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030033",
+    "model": "Tealth-Lite",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030034",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Hasrul",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030035",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030036",
+    "model": "DC-500",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030037",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030038",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Andi Iskandar",
+    "city": "Nunukan"
+  },
+  {
+    "serial": "EX92026030039",
+    "model": "S60-Panoramic",
+    "clinic_name": "Klinik Bali Dental",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030040",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Billy",
+    "city": "Karawang"
+  },
+  {
+    "serial": "EX92026030041",
+    "model": "S80-Panoramic",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030042",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030043",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Josephine",
+    "city": "Ambon"
+  },
+  {
+    "serial": "EX92026030044",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030045",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030046",
+    "model": "DC-500",
+    "clinic_name": "drg. Zulkifli",
+    "city": "Pekanbaru"
+  },
+  {
+    "serial": "EX92026030047",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030048",
+    "model": "DC-300",
+    "clinic_name": "drg. Ni Made Zatphika",
+    "city": "Purbalingga"
+  },
+  {
+    "serial": "EX92026030049",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Marthen",
+    "city": "Jayapura"
+  },
+  {
+    "serial": "EX92026030050",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Prasetya",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030051",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Marthen",
+    "city": "Jayapura"
+  },
+  {
+    "serial": "EX92026030052",
+    "model": "S80-Panoramic",
+    "clinic_name": "RS Wahidin",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030053",
+    "model": "A8-Cart",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030054",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Lidya",
+    "city": "Banjarbaru"
+  },
+  {
+    "serial": "EX92026030055",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Kartini",
+    "city": "Surabaya"
+  },
+  {
+    "serial": "EX92026030056",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Wulan",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030057",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030058",
+    "model": "Tealth-Lite",
+    "clinic_name": "Klinik Mataram Sehat",
+    "city": "Mataram"
+  },
+  {
+    "serial": "EX92026030059",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030060",
+    "model": "DC-500",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030061",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030062",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030063",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Lukman",
+    "city": "Bandar Lampung"
+  },
+  {
+    "serial": "EX92026030064",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030065",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030066",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030067",
+    "model": "Tealth-Pro",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030068",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Josephine",
+    "city": "Ambon"
+  },
+  {
+    "serial": "EX92026030069",
+    "model": "S80-Panoramic",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030070",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030071",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Ferry",
+    "city": "Balikpapan"
+  },
+  {
+    "serial": "EX92026030072",
+    "model": "S60-Panoramic",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030073",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030074",
+    "model": "A4-Cart",
+    "clinic_name": "Klinik Gigi Senyum",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030075",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Palupi",
+    "city": "Palu"
+  },
+  {
+    "serial": "EX92026030076",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030077",
+    "model": "DC-600",
+    "clinic_name": "drg. Palupi",
+    "city": "Palu"
+  },
+  {
+    "serial": "EX92026030078",
+    "model": "DC-600",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030079",
+    "model": "A4-Cart",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030080",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Billy",
+    "city": "Karawang"
+  },
+  {
+    "serial": "EX92026030081",
+    "model": "A4-Cart",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030082",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "Klinik Mataram Sehat",
+    "city": "Mataram"
+  },
+  {
+    "serial": "EX92026030083",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Josephine",
+    "city": "Ambon"
+  },
+  {
+    "serial": "EX92026030084",
+    "model": "S60-Panoramic",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030085",
+    "model": "Tealth-Lite",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030086",
+    "model": "DC-600",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030087",
+    "model": "DC-500",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030088",
+    "model": "A4-Cart",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030089",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Ferry",
+    "city": "Balikpapan"
+  },
+  {
+    "serial": "EX92026030090",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030091",
+    "model": "DC-300",
+    "clinic_name": "RS Wahidin",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030092",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "RS Wahidin",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030093",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Reza",
+    "city": "Padang"
+  },
+  {
+    "serial": "EX92026030094",
+    "model": "DC-600",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030095",
+    "model": "DC-300",
+    "clinic_name": "Klinik Mataram Sehat",
+    "city": "Mataram"
+  },
+  {
+    "serial": "EX92026030096",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030097",
+    "model": "A8-Cart",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030098",
+    "model": "S60-Panoramic",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030099",
+    "model": "DC-500",
+    "clinic_name": "drg. Hasrul",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030100",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Ni Made Zatphika",
+    "city": "Purbalingga"
+  },
+  {
+    "serial": "EX92026030101",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030102",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030103",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Marthen",
+    "city": "Jayapura"
+  },
+  {
+    "serial": "EX92026030104",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030105",
+    "model": "DC-300",
+    "clinic_name": "Klinik Kendari Gigi",
+    "city": "Kendari"
+  },
+  {
+    "serial": "EX92026030106",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030107",
+    "model": "DC-500",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030108",
+    "model": "DC-500",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030109",
+    "model": "DC-600",
+    "clinic_name": "drg. Palupi",
+    "city": "Palu"
+  },
+  {
+    "serial": "EX92026030110",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030111",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030112",
+    "model": "DC-600",
+    "clinic_name": "drg. Billy",
+    "city": "Karawang"
+  },
+  {
+    "serial": "EX92026030113",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Wulan",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030114",
+    "model": "S80-Panoramic",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030115",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030116",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Zulkifli",
+    "city": "Pekanbaru"
+  },
+  {
+    "serial": "EX92026030117",
+    "model": "DC-500",
+    "clinic_name": "drg. Kartini",
+    "city": "Surabaya"
+  },
+  {
+    "serial": "EX92026030118",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030119",
+    "model": "DC-600",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030120",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Kartini",
+    "city": "Surabaya"
+  },
+  {
+    "serial": "EX92026030121",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030122",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Billy",
+    "city": "Karawang"
+  },
+  {
+    "serial": "EX92026030123",
+    "model": "DC-600",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030124",
+    "model": "S80-Panoramic",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030125",
+    "model": "DC-600",
+    "clinic_name": "drg. Ni Made Zatphika",
+    "city": "Purbalingga"
+  },
+  {
+    "serial": "EX92026030126",
+    "model": "DC-500",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030127",
+    "model": "DC-500",
+    "clinic_name": "RS Wahidin",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030128",
+    "model": "A6-Cart",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030129",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030130",
+    "model": "DC-300",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030131",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030132",
+    "model": "A6-Cart",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030133",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "RS Wahidin",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030134",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Palupi",
+    "city": "Palu"
+  },
+  {
+    "serial": "EX92026030135",
+    "model": "DC-300",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030136",
+    "model": "DC-500",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030137",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030138",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030139",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030140",
+    "model": "Tealth-Lite",
+    "clinic_name": "Klinik Gigi Senyum",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030141",
+    "model": "A6-Cart",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030142",
+    "model": "DC-300",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030143",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030144",
+    "model": "DC-500",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030145",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Andi Iskandar",
+    "city": "Nunukan"
+  },
+  {
+    "serial": "EX92026030146",
+    "model": "DC-300",
+    "clinic_name": "drg. Billy",
+    "city": "Karawang"
+  },
+  {
+    "serial": "EX92026030147",
+    "model": "DC-600",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030148",
+    "model": "DC-300",
+    "clinic_name": "drg. Zulkifli",
+    "city": "Pekanbaru"
+  },
+  {
+    "serial": "EX92026030149",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030150",
+    "model": "A6-Cart",
+    "clinic_name": "Klinik Kendari Gigi",
+    "city": "Kendari"
+  },
+  {
+    "serial": "EX92026030151",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "Klinik Kendari Gigi",
+    "city": "Kendari"
+  },
+  {
+    "serial": "EX92026030152",
+    "model": "A6-Cart",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030153",
+    "model": "Esay-E5",
+    "clinic_name": "Klinik Kendari Gigi",
+    "city": "Kendari"
+  },
+  {
+    "serial": "EX92026030154",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Ni Made Zatphika",
+    "city": "Purbalingga"
+  },
+  {
+    "serial": "EX92026030155",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030156",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Josephine",
+    "city": "Ambon"
+  },
+  {
+    "serial": "EX92026030157",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030158",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030159",
+    "model": "DC-300",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030160",
+    "model": "DC-500",
+    "clinic_name": "Klinik Dentalia",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030161",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Prasetya",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030162",
+    "model": "A8-Cart",
+    "clinic_name": "RS Fatmawati",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030163",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030164",
+    "model": "DC-500",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030165",
+    "model": "DC-300",
+    "clinic_name": "Klinik Mataram Sehat",
+    "city": "Mataram"
+  },
+  {
+    "serial": "EX92026030166",
+    "model": "Tealth-Pro",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030167",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Andi Iskandar",
+    "city": "Nunukan"
+  },
+  {
+    "serial": "EX92026030168",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Lukman",
+    "city": "Bandar Lampung"
+  },
+  {
+    "serial": "EX92026030169",
+    "model": "DC-500",
+    "clinic_name": "drg. Lukman",
+    "city": "Bandar Lampung"
+  },
+  {
+    "serial": "EX92026030170",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030171",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Effendi",
+    "city": "Singkawang"
+  },
+  {
+    "serial": "EX92026030172",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030173",
+    "model": "DC-500",
+    "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030174",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030175",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Bakti",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030176",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030177",
+    "model": "DC-300",
+    "clinic_name": "drg. Zulkifli",
+    "city": "Pekanbaru"
+  },
+  {
+    "serial": "EX92026030178",
+    "model": "DC-600",
+    "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030179",
+    "model": "DC-600",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030180",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030181",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030182",
+    "model": "A8-Cart",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030183",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030184",
+    "model": "DC-500",
+    "clinic_name": "drg. Hasrul",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030185",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030186",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030187",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030188",
+    "model": "A8-Cart",
+    "clinic_name": "Klinik Bali Dental",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030189",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Zulkifli",
+    "city": "Pekanbaru"
+  },
+  {
+    "serial": "EX92026030190",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030191",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Riris",
+    "city": "Ketapang"
+  },
+  {
+    "serial": "EX92026030192",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030193",
+    "model": "DC-300",
+    "clinic_name": "RS Fatmawati",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030194",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Annisa, Klinik QSmile",
+    "city": "Tanjung Pinang"
+  },
+  {
+    "serial": "EX92026030195",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Lidya",
+    "city": "Banjarbaru"
+  },
+  {
+    "serial": "EX92026030196",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030197",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030198",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Cecilia Angelina",
+    "city": "PIK Jakarta Utara"
+  },
+  {
+    "serial": "EX92026030199",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030200",
+    "model": "Tealth-Lite",
+    "clinic_name": "RS Wahidin",
+    "city": "Makassar"
+  },
+  {
+    "serial": "EX92026030201",
+    "model": "DC-300",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030202",
+    "model": "DC-600",
+    "clinic_name": "drg. Ferry",
+    "city": "Balikpapan"
+  },
+  {
+    "serial": "EX92026030203",
+    "model": "DC-500",
+    "clinic_name": "Klinik Kendari Gigi",
+    "city": "Kendari"
+  },
+  {
+    "serial": "EX92026030204",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
+    "city": "Jakarta Selatan"
+  },
+  {
+    "serial": "EX92026030205",
+    "model": "DC-500",
+    "clinic_name": "Klinik Jambi Sehat",
+    "city": "Jambi"
+  },
+  {
+    "serial": "EX92026030206",
+    "model": "S60-Panoramic",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030207",
+    "model": "DC-500",
+    "clinic_name": "Klinik Bali Dental",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030208",
+    "model": "Tealth-Pro",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030209",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Prasetya",
+    "city": "Yogyakarta"
+  },
+  {
+    "serial": "EX92026030210",
+    "model": "DC-300",
+    "clinic_name": "Klinik Gigi Senyum",
+    "city": "Bandung"
+  },
+  {
+    "serial": "EX92026030211",
+    "model": "DC-300",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030212",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030213",
+    "model": "S60-Panoramic",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030214",
+    "model": "A6-Cart",
+    "clinic_name": "drg. Sri Wahyuni",
+    "city": "Samarinda"
+  },
+  {
+    "serial": "EX92026030215",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030216",
+    "model": "Joinchamp-JC7",
+    "clinic_name": "drg. Marthen",
+    "city": "Jayapura"
+  },
+  {
+    "serial": "EX92026030217",
+    "model": "DC-500",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030218",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Lukman",
+    "city": "Bandar Lampung"
+  },
+  {
+    "serial": "EX92026030219",
+    "model": "Tealth-Lite",
+    "clinic_name": "Klinik Mataram Sehat",
+    "city": "Mataram"
+  },
+  {
+    "serial": "EX92026030220",
+    "model": "DC-300",
+    "clinic_name": "drg. Wulan",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030221",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Ni Made Zatphika",
+    "city": "Purbalingga"
+  },
+  {
+    "serial": "EX92026030222",
+    "model": "DC-300",
+    "clinic_name": "drg. Muhammad Adnen",
+    "city": "Bekasi"
+  },
+  {
+    "serial": "EX92026030223",
+    "model": "DC-500",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030224",
+    "model": "A4-Cart",
+    "clinic_name": "drg. Lukman",
+    "city": "Bandar Lampung"
+  },
+  {
+    "serial": "EX92026030225",
+    "model": "S80-Panoramic",
+    "clinic_name": "drg. Ferry",
+    "city": "Balikpapan"
+  },
+  {
+    "serial": "EX92026030226",
+    "model": "Esay-E5",
+    "clinic_name": "Klinik Batam Dental",
+    "city": "Batam"
+  },
+  {
+    "serial": "EX92026030227",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030228",
+    "model": "A6-Cart",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030229",
+    "model": "DC-600",
+    "clinic_name": "drg. Ronny",
+    "city": "Manado"
+  },
+  {
+    "serial": "EX92026030230",
+    "model": "Tealth-Lite",
+    "clinic_name": "Klinik Bali Dental",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030231",
+    "model": "A8-Cart",
+    "clinic_name": "drg. Komang",
+    "city": "Denpasar"
+  },
+  {
+    "serial": "EX92026030232",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030233",
+    "model": "S60-Panoramic",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030234",
+    "model": "DC-600",
+    "clinic_name": "drg. Androw Tandean",
+    "city": "Medan"
+  },
+  {
+    "serial": "EX92026030235",
+    "model": "A6-Cart",
+    "clinic_name": "Klinik Sriwijaya",
+    "city": "Palembang"
+  },
+  {
+    "serial": "EX92026030236",
+    "model": "Tealth-Lite",
+    "clinic_name": "drg. Yohana",
+    "city": "Kupang"
+  },
+  {
+    "serial": "EX92026030237",
+    "model": "A6-Cart",
+    "clinic_name": "RS Kariadi",
+    "city": "Semarang"
+  },
+  {
+    "serial": "EX92026030238",
+    "model": "Esay-E5",
+    "clinic_name": "drg. Karolina Br Kaban",
+    "city": "Pontianak"
+  },
+  {
+    "serial": "EX92026030239",
+    "model": "DC-600",
+    "clinic_name": "drg. Ferry",
+    "city": "Balikpapan"
+  },
+  {
+    "serial": "EX92026030240",
+    "model": "Tealth-Pro",
+    "clinic_name": "RS Fatmawati",
+    "city": "Jakarta Selatan"
+  }
+]

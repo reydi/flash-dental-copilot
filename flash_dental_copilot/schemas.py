@@ -28,3 +28,5 @@ class AskResponse(BaseModel):
     kpi_summary: str
     pii_masking_example: str
     computed_by_code_note: str
+    # An optional chart/stat/flow spec the demo can render alongside the text answer.
+    visualization: Optional[dict] = None

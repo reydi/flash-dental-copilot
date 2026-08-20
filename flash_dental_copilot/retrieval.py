@@ -20,6 +20,8 @@ STOP_WORDS = frozenset({
     "or", "with", "at", "by", "be", "this", "that", "our", "your", "what", "how",
     "do", "does", "it", "its", "their", "has", "have", "which", "when", "where",
     "show", "me", "give", "tell", "about",
+    # Interrogatives — question words must not match documents that happen to contain them.
+    "who", "whom", "whose", "why", "are", "we", "us", "they", "them",
 })
 
 _ALPHANUMERIC_TERM_PATTERN = re.compile(r"[a-z0-9]+")

@@ -16,6 +16,7 @@ from pathlib import Path
 from scripts.asset_documents import (
     build_generated_asset_documents,
     build_generated_manual_documents,
+    build_unit_registry,
     generate_unit_serial,
 )
 from scripts.corpus_entities import (
@@ -78,12 +79,15 @@ def build_generated_technician_documents() -> list[dict]:
     ]
 
 
-def build_service_tickets(random_generator: random.Random) -> list[dict]:
-    """Structured tickets: distinct per-technician first-time-fix, plus a job category."""
+def build_service_tickets(
+    random_generator: random.Random, serial_to_clinic: dict[str, tuple[str, str]]
+) -> list[dict]:
+    """Structured tickets: per-technician first-time-fix, a job category, and the clinic served."""
     tickets: list[dict] = []
     finished_jobs_per_technician: dict[str, int] = {}
     for sequence_number in range(1, SERVICE_TICKET_COUNT + 1):
         unit_serial = generate_unit_serial((sequence_number % GENERATED_UNIT_COUNT) + 1)
+        clinic_name, city = serial_to_clinic.get(unit_serial, ("", ""))
         technician_name = random_generator.choices(
             FIELD_TECHNICIANS, weights=TECHNICIAN_TICKET_WEIGHTS, k=1
         )[0]
@@ -101,6 +105,8 @@ def build_service_tickets(random_generator: random.Random) -> list[dict]:
             "cycle_time_days": random_generator.randint(2, 17),
             "status": "outstanding" if is_outstanding else "finished",
             "job_category": random_generator.choices(JOB_CATEGORIES, weights=JOB_CATEGORY_WEIGHTS, k=1)[0],
+            "clinic_name": clinic_name,
+            "city": city,
         })
     return tickets
 
@@ -138,11 +144,15 @@ def main() -> None:
         for employee in employee_directory
         if employee["role"] == "Sales Representative"
     ]
+    unit_registry = build_unit_registry(random_generator, GENERATED_UNIT_COUNT)
+    serial_to_clinic = {
+        unit["serial"]: (unit["clinic_name"], unit["city"]) for unit in unit_registry
+    }
     asset_documents = (
         CANONICAL_ASSET_DOCUMENTS
         + build_generated_manual_documents()
         + build_generated_asset_documents(
-            random_generator, GENERATED_UNIT_COUNT, sales_representative_names
+            random_generator, unit_registry, sales_representative_names
         )
     )
     technician_documents = (
@@ -161,13 +171,16 @@ def main() -> None:
             "preset_questions": TECHNICIAN_PRESET_QUESTIONS + ORG_PRESET_QUESTIONS,
         },
     )
-    write_json_file("service_tickets.json", build_service_tickets(random_generator))
+    write_json_file(
+        "service_tickets.json", build_service_tickets(random_generator, serial_to_clinic)
+    )
     write_json_file("maintenance_schedule.json", build_maintenance_schedule(random_generator))
     write_json_file("employees.json", employee_directory)
+    write_json_file("units.json", unit_registry)
     print(
         f"Wrote {len(asset_documents)} asset documents, "
         f"{len(technician_documents)} technician/org documents, "
-        f"{SERVICE_TICKET_COUNT} service tickets, {GENERATED_UNIT_COUNT} maintenance records, "
+        f"{SERVICE_TICKET_COUNT} service tickets, {GENERATED_UNIT_COUNT} units + maintenance records, "
         f"and {len(employee_directory)} employees to {DATA_DIRECTORY}."
     )
 

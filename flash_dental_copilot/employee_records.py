@@ -6,6 +6,7 @@ questions a cockpit computes over people — how many in a role, and how many in
 from __future__ import annotations
 
 import json
+from collections import Counter
 from dataclasses import dataclass
 
 from flash_dental_copilot.corpus import DATA_DIRECTORY
@@ -32,3 +33,9 @@ def load_employees() -> list[Employee]:
 def count_employees_in_role(employees: list[Employee], role_title: str) -> int:
     """How many people hold the given role."""
     return sum(1 for employee in employees if employee.role == role_title)
+
+
+def count_employees_by_role(employees: list[Employee]) -> list[tuple[str, int]]:
+    """Every role with its headcount, largest first — for a breakdown chart."""
+    role_counter = Counter(employee.role for employee in employees)
+    return role_counter.most_common()
