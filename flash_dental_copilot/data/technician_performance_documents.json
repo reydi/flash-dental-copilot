@@ -91,6 +91,26 @@
       "text": "The executive team (C-level) steers both operations — field-service assets and technician people-performance — from one rolled-up cockpit."
     },
     {
+      "document_id": "faq_sla_targets",
+      "category": "policy",
+      "text": "Target SLA by priority: Critical (unit dead, operations stopped) — first response 15 to 30 minutes, handled as soon as possible. High (main function disrupted) — 1 hour, within 1 working day. Medium (partial function) — 2 to 4 hours, 2 to 3 working days. Low (inquiry, training, minor) — 1 working day, per schedule."
+    },
+    {
+      "document_id": "faq_sla_metrics",
+      "category": "policy",
+      "text": "The SLA metrics tracked are first response time, assignment time, scheduling time, arrival time, resolution time, and closure time — each measured from when the report comes in. Today they are not measured at all; the system computes them without manual input."
+    },
+    {
+      "document_id": "faq_ticket_types",
+      "category": "process",
+      "text": "Ticket types: new installation, preventive maintenance, breakdown or repair, warranty claim, relocation, training, component replacement, and follow-up of previous work."
+    },
+    {
+      "document_id": "faq_ticket_close",
+      "category": "process",
+      "text": "What happens after a ticket is resolved? It moves Resolved, then Customer Confirmation, then Closed. A supervisor or admin verifies the closure, and all activity is written into the asset's history."
+    },
+    {
       "document_id": "org_headcount",
       "category": "overview",
       "text": "Flash Dental headcount is 202 people: 24 Field Technicians, 26 Service Coordinators, 22 Warehouse / Parts Officers, 14 Service Managers, 52 Sales Representatives, 12 Finance Officers, 30 Customer Support Agents, 18 Regional Admins, 4 Executives. Field Technicians are the field team; the rest run the coordination, parts, sales, finance, and support flow around them."
@@ -98,8 +118,8 @@
   ],
   "preset_questions": [
     "who is the least-performing technician this period?",
+    "do we have enough technicians for the 3-day SLA in all cities?",
     "how many field technicians do we have?",
-    "which clinics did Yudi service?",
     "who dispatches a technician to a reported fault?",
     "what is Yudi's home address?",
     "who is the best football player?"

@@ -114,6 +114,17 @@ def test_computed_answer_carries_a_visualization():
     assert body["visualization"]["kind"] == "stat"
 
 
+def test_capacity_question_returns_a_computed_region_map():
+    response = client.post(
+        "/ask",
+        json={"domain": "technicians", "question": "do we have enough technicians for the 3-day SLA in all cities?"},
+    )
+    body = response.json()
+    assert body["answer_kind"] == "computed"
+    assert body["visualization"]["kind"] == "map"
+    assert len(body["visualization"]["regions"]) == 9
+
+
 def test_irrelevant_question_abstains_without_a_visualization():
     response = client.post(
         "/ask", json={"domain": "technicians", "question": "who are the best football player"}

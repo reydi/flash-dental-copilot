@@ -86,6 +86,21 @@ CANONICAL_ORG_DOCUMENTS = [
     {"document_id": "org_executives", "category": "overview",
      "text": "The executive team (C-level) steers both operations — field-service assets and technician "
              "people-performance — from one rolled-up cockpit."},
+    {"document_id": "faq_sla_targets", "category": "policy",
+     "text": "Target SLA by priority: Critical (unit dead, operations stopped) — first response 15 to 30 minutes, "
+             "handled as soon as possible. High (main function disrupted) — 1 hour, within 1 working day. "
+             "Medium (partial function) — 2 to 4 hours, 2 to 3 working days. Low (inquiry, training, minor) — "
+             "1 working day, per schedule."},
+    {"document_id": "faq_sla_metrics", "category": "policy",
+     "text": "The SLA metrics tracked are first response time, assignment time, scheduling time, arrival time, "
+             "resolution time, and closure time — each measured from when the report comes in. Today they are "
+             "not measured at all; the system computes them without manual input."},
+    {"document_id": "faq_ticket_types", "category": "process",
+     "text": "Ticket types: new installation, preventive maintenance, breakdown or repair, warranty claim, "
+             "relocation, training, component replacement, and follow-up of previous work."},
+    {"document_id": "faq_ticket_close", "category": "process",
+     "text": "What happens after a ticket is resolved? It moves Resolved, then Customer Confirmation, then Closed. "
+             "A supervisor or admin verifies the closure, and all activity is written into the asset's history."},
 ]
 
 ORG_PRESET_QUESTIONS = [

@@ -126,6 +126,10 @@ CANONICAL_ASSET_DOCUMENTS = [
      "text": "A new dental unit is installed on-site, then covered by scheduled preventive maintenance. After installation, technicians also run basic training for the clinic's staff on daily care and cleaning."},
     {"document_id": "faq_warranty_length", "category": "policy",
      "text": "How long is the warranty on a dental unit? The main machine is covered for 2 years from installation, and its components for 1 year. After that the unit is out of warranty and its repairs are billable."},
+    {"document_id": "faq_pm_schedule", "category": "policy",
+     "text": "How often is preventive maintenance? It is scheduled automatically every six months, from installation or the last maintenance, with reminders at H-30, H-14, and H-7 before it is due."},
+    {"document_id": "faq_warranty_reminders", "category": "policy",
+     "text": "When do warranty reminders fire? At H-90, H-30, and H-7 before the warranty ends. Warranty status shows as in-warranty, nearing end, ended, or not applicable on every ticket."},
 ]
 
 # Hand-authored technician records so "how is Yudi doing" always retrieves.
@@ -157,8 +161,8 @@ ASSET_PRESET_QUESTIONS = [
 
 TECHNICIAN_PRESET_QUESTIONS = [
     "who is the least-performing technician this period?",
+    "do we have enough technicians for the 3-day SLA in all cities?",
     "how many field technicians do we have?",
-    "which clinics did Yudi service?",
     "who dispatches a technician to a reported fault?",
     "what is Yudi's home address?",
     "who is the best football player?",

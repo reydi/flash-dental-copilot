@@ -35,6 +35,11 @@ def list_cards(title: str, items: list[tuple[str, str]]) -> dict:
     }
 
 
+def region_map(title: str, regions: list[dict]) -> dict:
+    """A severity-coloured map of Indonesia's service regions — the front-end draws the map."""
+    return {"kind": "map", "title": title, "regions": regions}
+
+
 def flow(title: str, steps: list[tuple[str, str]]) -> dict:
     """An ordered set of who-does-what steps, drawn as a left-to-right diagram."""
     return {
