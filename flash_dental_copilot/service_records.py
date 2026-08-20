@@ -16,8 +16,10 @@ from flash_dental_copilot.kpi_computation import (
     compute_warranty_expiry_date,
     count_outstanding_jobs,
 )
+from flash_dental_copilot.structured_analytics import MaintenanceRecord
 
 SERVICE_TICKETS_FILENAME = "service_tickets.json"
+MAINTENANCE_SCHEDULE_FILENAME = "maintenance_schedule.json"
 
 # The unit and technician the demo tells its story around.
 FEATURED_UNIT_SERIAL = "FD-1042"
@@ -31,6 +33,13 @@ def load_service_tickets() -> list[ServiceTicket]:
     tickets_file = DATA_DIRECTORY / SERVICE_TICKETS_FILENAME
     raw_tickets = json.loads(tickets_file.read_text(encoding="utf-8"))
     return [ServiceTicket(**ticket_fields) for ticket_fields in raw_tickets]
+
+
+def load_maintenance_schedule() -> list[MaintenanceRecord]:
+    """Read each unit's next preventive-maintenance date and overdue flag."""
+    schedule_file = DATA_DIRECTORY / MAINTENANCE_SCHEDULE_FILENAME
+    raw_records = json.loads(schedule_file.read_text(encoding="utf-8"))
+    return [MaintenanceRecord(**record_fields) for record_fields in raw_records]
 
 
 def build_domain_kpi_summary(

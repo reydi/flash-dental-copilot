@@ -59,6 +59,10 @@ CANONICAL_ASSET_DOCUMENTS = [
      "text": "Main machine warranty is 2 years from installation; components are 1 year. The suction motor is treated as a component, so it is out of warranty after the first year."},
     {"document_id": "invoice_FD-1042", "category": "invoice",
      "text": "Invoice INV-2023-118: dental unit serial FD-1042 (model DC-300) purchased 2023-06-15 for Rp 85,000,000; sold by sales rep Rina Putri; installed at Klinik Sehat, Surabaya."},
+    {"document_id": "faq_warranty_check", "category": "policy",
+     "text": "How to check a unit's warranty: find its sales invoice for the purchase date; the main machine is covered for 2 years and components for 1 year. A unit past those dates is out of warranty and its repairs are billable."},
+    {"document_id": "faq_spare_parts", "category": "policy",
+     "text": "Spare parts stocked in the warehouse include suction motors, hydraulic seals, footcovers, water hoses, and handpieces. A spare-part stockout is the main cause of a long wait between a reported fault and the repair."},
 ]
 
 # Hand-authored technician records so "how is Yudi doing" always retrieves.
@@ -71,15 +75,19 @@ CANONICAL_TECHNICIAN_DOCUMENTS = [
      "text": "Technician Dedi Kurniawan June log: closed 10 jobs, mostly Jabodetabek service and scheduled maintenance; first-time-fix on 9 of 10; one job outstanding on a water-hose stockout."},
     {"document_id": "tech_roster_balance", "category": "roster_note",
      "text": "Roster balance: out-of-town jobs concentrate on Yudi Pratama. If he is unavailable, Kalimantan coverage is a risk — spread the out-of-town roster across technicians."},
+    {"document_id": "tech_coverage", "category": "overview",
+     "text": "Coverage: Yudi Pratama handles most of the out-of-town Kalimantan and Sumatra work; Jabodetabek jobs spread across Dedi Kurniawan, Febri Santoso, Arga Wibowo, and Arman Hakim."},
 ]
 
 ASSET_PRESET_QUESTIONS = [
     "asset FD-1042 keeps failing — show its service history",
     "who sold FD-1042 and when was it purchased?",
+    "how many units have overdue maintenance?",
     "what is the wifi password",
 ]
 
 TECHNICIAN_PRESET_QUESTIONS = [
+    "who is the least-performing technician this period?",
     "how many jobs did Yudi close and his first-time-fix",
     "which technician has an outstanding job right now",
     "what is Yudi's home address",

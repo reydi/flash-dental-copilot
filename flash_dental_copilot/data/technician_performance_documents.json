@@ -21,6 +21,11 @@
       "text": "Roster balance: out-of-town jobs concentrate on Yudi Pratama. If he is unavailable, Kalimantan coverage is a risk — spread the out-of-town roster across technicians."
     },
     {
+      "document_id": "tech_coverage",
+      "category": "overview",
+      "text": "Coverage: Yudi Pratama handles most of the out-of-town Kalimantan and Sumatra work; Jabodetabek jobs spread across Dedi Kurniawan, Febri Santoso, Arga Wibowo, and Arman Hakim."
+    },
+    {
       "document_id": "tech_febri_june",
       "category": "monthly_log",
       "text": "Technician Febri Santoso June log: closed 8 jobs, mostly Jabodetabek service and scheduled maintenance."
@@ -37,6 +42,7 @@
     }
   ],
   "preset_questions": [
+    "who is the least-performing technician this period?",
     "how many jobs did Yudi close and his first-time-fix",
     "which technician has an outstanding job right now",
     "what is Yudi's home address"

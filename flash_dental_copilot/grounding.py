@@ -11,7 +11,8 @@ from dataclasses import dataclass
 from flash_dental_copilot.retrieval import RankedDocument
 
 # Below this cosine similarity the best match is too weak to trust; abstain instead.
-ABSTAIN_SIMILARITY_THRESHOLD = 0.12
+# Set deliberately high: a confident wrong answer is worse than an honest "not in our records".
+ABSTAIN_SIMILARITY_THRESHOLD = 0.16
 
 
 @dataclass(frozen=True)
