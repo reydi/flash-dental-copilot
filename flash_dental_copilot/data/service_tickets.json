@@ -8,7 +8,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-500",
+    "hold_reason": "customer approval"
   },
   {
     "ticket_id": "TKT-0002",
@@ -19,7 +21,9 @@
     "status": "outstanding",
     "job_category": "service",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-600",
+    "hold_reason": "customer confirmation"
   },
   {
     "ticket_id": "TKT-0003",
@@ -30,7 +34,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": "spare part"
   },
   {
     "ticket_id": "TKT-0004",
@@ -41,7 +47,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "DC-500",
+    "hold_reason": "customer approval"
   },
   {
     "ticket_id": "TKT-0005",
@@ -52,7 +60,9 @@
     "status": "outstanding",
     "job_category": "service",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "A8-Cart",
+    "hold_reason": "customer confirmation"
   },
   {
     "ticket_id": "TKT-0006",
@@ -63,7 +73,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": "spare part"
   },
   {
     "ticket_id": "TKT-0007",
@@ -74,7 +86,9 @@
     "status": "outstanding",
     "job_category": "service",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "A4-Cart",
+    "hold_reason": "customer approval"
   },
   {
     "ticket_id": "TKT-0008",
@@ -85,7 +99,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "A8-Cart",
+    "hold_reason": "customer confirmation"
   },
   {
     "ticket_id": "TKT-0009",
@@ -96,7 +112,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": "spare part"
   },
   {
     "ticket_id": "TKT-0010",
@@ -107,7 +125,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A6-Cart",
+    "hold_reason": "customer approval"
   },
   {
     "ticket_id": "TKT-0011",
@@ -118,7 +138,9 @@
     "status": "outstanding",
     "job_category": "service",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": "customer confirmation"
   },
   {
     "ticket_id": "TKT-0012",
@@ -129,7 +151,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A4-Cart",
+    "hold_reason": "spare part"
   },
   {
     "ticket_id": "TKT-0013",
@@ -140,7 +164,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "DC-300",
+    "hold_reason": "customer approval"
   },
   {
     "ticket_id": "TKT-0014",
@@ -151,7 +177,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": "customer confirmation"
   },
   {
     "ticket_id": "TKT-0015",
@@ -162,7 +190,9 @@
     "status": "outstanding",
     "job_category": "maintenance",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": "spare part"
   },
   {
     "ticket_id": "TKT-0016",
@@ -173,7 +203,9 @@
     "status": "outstanding",
     "job_category": "installation",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": "customer approval"
   },
   {
     "ticket_id": "TKT-0017",
@@ -184,7 +216,9 @@
     "status": "outstanding",
     "job_category": "service",
     "clinic_name": "drg. Zeddin Ronald",
-    "city": "Tarakan"
+    "city": "Tarakan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": "customer confirmation"
   },
   {
     "ticket_id": "TKT-0018",
@@ -195,7 +229,9 @@
     "status": "outstanding",
     "job_category": "survey",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Esay-E5",
+    "hold_reason": "spare part"
   },
   {
     "ticket_id": "TKT-0019",
@@ -206,7 +242,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0020",
@@ -217,7 +255,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0021",
@@ -228,7 +268,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0022",
@@ -239,7 +281,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0023",
@@ -250,7 +294,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0024",
@@ -261,7 +307,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0025",
@@ -272,7 +320,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0026",
@@ -283,7 +333,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0027",
@@ -294,7 +346,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0028",
@@ -305,7 +359,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0029",
@@ -316,7 +372,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0030",
@@ -327,7 +385,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0031",
@@ -338,7 +398,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0032",
@@ -349,7 +411,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0033",
@@ -360,7 +424,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0034",
@@ -371,7 +437,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0035",
@@ -382,7 +450,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0036",
@@ -393,7 +463,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0037",
@@ -404,7 +476,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0038",
@@ -415,7 +489,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0039",
@@ -426,7 +502,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0040",
@@ -437,7 +515,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0041",
@@ -448,7 +528,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0042",
@@ -459,7 +541,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0043",
@@ -470,7 +554,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0044",
@@ -481,7 +567,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0045",
@@ -492,7 +580,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0046",
@@ -503,7 +593,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0047",
@@ -514,7 +606,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0048",
@@ -525,7 +619,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0049",
@@ -536,7 +632,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Prasetya",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0050",
@@ -547,7 +645,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0051",
@@ -558,7 +658,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0052",
@@ -569,7 +671,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0053",
@@ -580,7 +684,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Lidya",
-    "city": "Banjarbaru"
+    "city": "Banjarbaru",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0054",
@@ -591,7 +697,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Kartini",
-    "city": "Surabaya"
+    "city": "Surabaya",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0055",
@@ -602,7 +710,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0056",
@@ -613,7 +723,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0057",
@@ -624,7 +736,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0058",
@@ -635,7 +749,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0059",
@@ -646,7 +762,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0060",
@@ -657,7 +775,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0061",
@@ -668,7 +788,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0062",
@@ -679,7 +801,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0063",
@@ -690,7 +814,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0064",
@@ -701,7 +827,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0065",
@@ -712,7 +840,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0066",
@@ -723,7 +853,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0067",
@@ -734,7 +866,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0068",
@@ -745,7 +879,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0069",
@@ -756,7 +892,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0070",
@@ -767,7 +905,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0071",
@@ -778,7 +918,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0072",
@@ -789,7 +931,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0073",
@@ -800,7 +944,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0074",
@@ -811,7 +957,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0075",
@@ -822,7 +970,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0076",
@@ -833,7 +983,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0077",
@@ -844,7 +996,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0078",
@@ -855,7 +1009,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0079",
@@ -866,7 +1022,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0080",
@@ -877,7 +1035,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0081",
@@ -888,7 +1048,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0082",
@@ -899,7 +1061,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0083",
@@ -910,7 +1074,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0084",
@@ -921,7 +1087,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0085",
@@ -932,7 +1100,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0086",
@@ -943,7 +1113,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0087",
@@ -954,7 +1126,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0088",
@@ -965,7 +1139,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0089",
@@ -976,7 +1152,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0090",
@@ -987,7 +1165,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0091",
@@ -998,7 +1178,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0092",
@@ -1009,7 +1191,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0093",
@@ -1020,7 +1204,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0094",
@@ -1031,7 +1217,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0095",
@@ -1042,7 +1230,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0096",
@@ -1053,7 +1243,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0097",
@@ -1064,7 +1256,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0098",
@@ -1075,7 +1269,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0099",
@@ -1086,7 +1282,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0100",
@@ -1097,7 +1295,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0101",
@@ -1108,7 +1308,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0102",
@@ -1119,7 +1321,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0103",
@@ -1130,7 +1334,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0104",
@@ -1141,7 +1347,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0105",
@@ -1152,7 +1360,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0106",
@@ -1163,7 +1373,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0107",
@@ -1174,7 +1386,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0108",
@@ -1185,7 +1399,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0109",
@@ -1196,7 +1412,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0110",
@@ -1207,7 +1425,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0111",
@@ -1218,7 +1438,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0112",
@@ -1229,7 +1451,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0113",
@@ -1240,7 +1464,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0114",
@@ -1251,7 +1477,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0115",
@@ -1262,7 +1490,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0116",
@@ -1273,7 +1503,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Kartini",
-    "city": "Surabaya"
+    "city": "Surabaya",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0117",
@@ -1284,7 +1516,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0118",
@@ -1295,7 +1529,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0119",
@@ -1306,7 +1542,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Kartini",
-    "city": "Surabaya"
+    "city": "Surabaya",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0120",
@@ -1317,7 +1555,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0121",
@@ -1328,7 +1568,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0122",
@@ -1339,7 +1581,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0123",
@@ -1350,7 +1594,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0124",
@@ -1361,7 +1607,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0125",
@@ -1372,7 +1620,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0126",
@@ -1383,7 +1633,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0127",
@@ -1394,7 +1646,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0128",
@@ -1405,7 +1659,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0129",
@@ -1416,7 +1672,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0130",
@@ -1427,7 +1685,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0131",
@@ -1438,7 +1698,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0132",
@@ -1449,7 +1711,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0133",
@@ -1460,7 +1724,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0134",
@@ -1471,7 +1737,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0135",
@@ -1482,7 +1750,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0136",
@@ -1493,7 +1763,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0137",
@@ -1504,7 +1776,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0138",
@@ -1515,7 +1789,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0139",
@@ -1526,7 +1802,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0140",
@@ -1537,7 +1815,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0141",
@@ -1548,7 +1828,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0142",
@@ -1559,7 +1841,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0143",
@@ -1570,7 +1854,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0144",
@@ -1581,7 +1867,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0145",
@@ -1592,7 +1880,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0146",
@@ -1603,7 +1893,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0147",
@@ -1614,7 +1906,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0148",
@@ -1625,7 +1919,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0149",
@@ -1636,7 +1932,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0150",
@@ -1647,7 +1945,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0151",
@@ -1658,7 +1958,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0152",
@@ -1669,7 +1971,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0153",
@@ -1680,7 +1984,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0154",
@@ -1691,7 +1997,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0155",
@@ -1702,7 +2010,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0156",
@@ -1713,7 +2023,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0157",
@@ -1724,7 +2036,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0158",
@@ -1735,7 +2049,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0159",
@@ -1746,7 +2062,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0160",
@@ -1757,7 +2075,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Prasetya",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0161",
@@ -1768,7 +2088,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0162",
@@ -1779,7 +2101,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0163",
@@ -1790,7 +2114,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0164",
@@ -1801,7 +2127,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0165",
@@ -1812,7 +2140,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0166",
@@ -1823,7 +2153,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0167",
@@ -1834,7 +2166,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0168",
@@ -1845,7 +2179,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0169",
@@ -1856,7 +2192,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0170",
@@ -1867,7 +2205,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0171",
@@ -1878,7 +2218,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0172",
@@ -1889,7 +2231,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0173",
@@ -1900,7 +2244,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0174",
@@ -1911,7 +2257,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0175",
@@ -1922,7 +2270,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0176",
@@ -1933,7 +2283,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0177",
@@ -1944,7 +2296,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0178",
@@ -1955,7 +2309,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0179",
@@ -1966,7 +2322,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0180",
@@ -1977,7 +2335,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0181",
@@ -1988,7 +2348,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0182",
@@ -1999,7 +2361,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0183",
@@ -2010,7 +2374,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0184",
@@ -2021,7 +2387,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0185",
@@ -2032,7 +2400,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0186",
@@ -2043,7 +2413,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0187",
@@ -2054,7 +2426,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0188",
@@ -2065,7 +2439,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0189",
@@ -2076,7 +2452,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0190",
@@ -2087,7 +2465,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0191",
@@ -2098,7 +2478,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0192",
@@ -2109,7 +2491,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0193",
@@ -2120,7 +2504,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0194",
@@ -2131,7 +2517,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Lidya",
-    "city": "Banjarbaru"
+    "city": "Banjarbaru",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0195",
@@ -2142,7 +2530,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0196",
@@ -2153,7 +2543,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0197",
@@ -2164,7 +2556,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0198",
@@ -2175,7 +2569,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0199",
@@ -2186,7 +2582,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0200",
@@ -2197,7 +2595,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0201",
@@ -2208,7 +2608,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0202",
@@ -2219,7 +2621,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0203",
@@ -2230,7 +2634,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0204",
@@ -2241,7 +2647,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0205",
@@ -2252,7 +2660,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0206",
@@ -2263,7 +2673,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0207",
@@ -2274,7 +2686,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0208",
@@ -2285,7 +2699,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Prasetya",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0209",
@@ -2296,7 +2712,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0210",
@@ -2307,7 +2725,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0211",
@@ -2318,7 +2738,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0212",
@@ -2329,7 +2751,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0213",
@@ -2340,7 +2764,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0214",
@@ -2351,7 +2777,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0215",
@@ -2362,7 +2790,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0216",
@@ -2373,7 +2803,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0217",
@@ -2384,7 +2816,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0218",
@@ -2395,7 +2829,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0219",
@@ -2406,7 +2842,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0220",
@@ -2417,7 +2855,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0221",
@@ -2428,7 +2868,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0222",
@@ -2439,7 +2881,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0223",
@@ -2450,7 +2894,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0224",
@@ -2461,7 +2907,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0225",
@@ -2472,7 +2920,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0226",
@@ -2483,7 +2933,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0227",
@@ -2494,7 +2946,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0228",
@@ -2505,7 +2959,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0229",
@@ -2516,7 +2972,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0230",
@@ -2527,7 +2985,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0231",
@@ -2538,7 +2998,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0232",
@@ -2549,7 +3011,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0233",
@@ -2560,7 +3024,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0234",
@@ -2571,7 +3037,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0235",
@@ -2582,7 +3050,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0236",
@@ -2593,7 +3063,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0237",
@@ -2604,7 +3076,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0238",
@@ -2615,7 +3089,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0239",
@@ -2626,7 +3102,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0240",
@@ -2637,7 +3115,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0241",
@@ -2648,7 +3128,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0242",
@@ -2659,7 +3141,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0243",
@@ -2670,7 +3154,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0244",
@@ -2681,7 +3167,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0245",
@@ -2692,7 +3180,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0246",
@@ -2703,7 +3193,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0247",
@@ -2714,7 +3206,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0248",
@@ -2725,7 +3219,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0249",
@@ -2736,7 +3232,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0250",
@@ -2747,7 +3245,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0251",
@@ -2758,7 +3258,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0252",
@@ -2769,7 +3271,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0253",
@@ -2780,7 +3284,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0254",
@@ -2791,7 +3297,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0255",
@@ -2802,7 +3310,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0256",
@@ -2813,7 +3323,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0257",
@@ -2824,7 +3336,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Zeddin Ronald",
-    "city": "Tarakan"
+    "city": "Tarakan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0258",
@@ -2835,7 +3349,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0259",
@@ -2846,7 +3362,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0260",
@@ -2857,7 +3375,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0261",
@@ -2868,7 +3388,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0262",
@@ -2879,7 +3401,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0263",
@@ -2890,7 +3414,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0264",
@@ -2901,7 +3427,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0265",
@@ -2912,7 +3440,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0266",
@@ -2923,7 +3453,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0267",
@@ -2934,7 +3466,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0268",
@@ -2945,7 +3479,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0269",
@@ -2956,7 +3492,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0270",
@@ -2967,7 +3505,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0271",
@@ -2978,7 +3518,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0272",
@@ -2989,7 +3531,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0273",
@@ -3000,7 +3544,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0274",
@@ -3011,7 +3557,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0275",
@@ -3022,7 +3570,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0276",
@@ -3033,7 +3583,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0277",
@@ -3044,7 +3596,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0278",
@@ -3055,7 +3609,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0279",
@@ -3066,7 +3622,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0280",
@@ -3077,7 +3635,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0281",
@@ -3088,7 +3648,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0282",
@@ -3099,7 +3661,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0283",
@@ -3110,7 +3674,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0284",
@@ -3121,7 +3687,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0285",
@@ -3132,7 +3700,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0286",
@@ -3143,7 +3713,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0287",
@@ -3154,7 +3726,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0288",
@@ -3165,7 +3739,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0289",
@@ -3176,7 +3752,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Prasetya",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0290",
@@ -3187,7 +3765,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0291",
@@ -3198,7 +3778,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0292",
@@ -3209,7 +3791,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0293",
@@ -3220,7 +3804,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Lidya",
-    "city": "Banjarbaru"
+    "city": "Banjarbaru",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0294",
@@ -3231,7 +3817,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Kartini",
-    "city": "Surabaya"
+    "city": "Surabaya",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0295",
@@ -3242,7 +3830,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0296",
@@ -3253,7 +3843,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0297",
@@ -3264,7 +3856,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0298",
@@ -3275,7 +3869,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0299",
@@ -3286,7 +3882,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0300",
@@ -3297,7 +3895,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0301",
@@ -3308,7 +3908,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0302",
@@ -3319,7 +3921,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0303",
@@ -3330,7 +3934,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0304",
@@ -3341,7 +3947,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0305",
@@ -3352,7 +3960,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0306",
@@ -3363,7 +3973,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0307",
@@ -3374,7 +3986,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0308",
@@ -3385,7 +3999,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0309",
@@ -3396,7 +4012,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0310",
@@ -3407,7 +4025,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0311",
@@ -3418,7 +4038,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0312",
@@ -3429,7 +4051,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0313",
@@ -3440,7 +4064,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0314",
@@ -3451,7 +4077,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0315",
@@ -3462,7 +4090,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0316",
@@ -3473,7 +4103,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0317",
@@ -3484,7 +4116,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0318",
@@ -3495,7 +4129,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0319",
@@ -3506,7 +4142,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0320",
@@ -3517,7 +4155,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0321",
@@ -3528,7 +4168,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0322",
@@ -3539,7 +4181,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0323",
@@ -3550,7 +4194,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0324",
@@ -3561,7 +4207,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0325",
@@ -3572,7 +4220,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0326",
@@ -3583,7 +4233,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0327",
@@ -3594,7 +4246,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0328",
@@ -3605,7 +4259,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0329",
@@ -3616,7 +4272,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0330",
@@ -3627,7 +4285,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0331",
@@ -3638,7 +4298,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0332",
@@ -3649,7 +4311,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0333",
@@ -3660,7 +4324,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0334",
@@ -3671,7 +4337,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0335",
@@ -3682,7 +4350,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0336",
@@ -3693,7 +4363,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0337",
@@ -3704,7 +4376,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0338",
@@ -3715,7 +4389,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0339",
@@ -3726,7 +4402,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0340",
@@ -3737,7 +4415,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0341",
@@ -3748,7 +4428,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0342",
@@ -3759,7 +4441,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0343",
@@ -3770,7 +4454,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0344",
@@ -3781,7 +4467,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0345",
@@ -3792,7 +4480,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0346",
@@ -3803,7 +4493,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0347",
@@ -3814,7 +4506,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0348",
@@ -3825,7 +4519,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0349",
@@ -3836,7 +4532,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0350",
@@ -3847,7 +4545,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0351",
@@ -3858,7 +4558,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0352",
@@ -3869,7 +4571,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0353",
@@ -3880,7 +4584,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0354",
@@ -3891,7 +4597,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0355",
@@ -3902,7 +4610,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0356",
@@ -3913,7 +4623,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Kartini",
-    "city": "Surabaya"
+    "city": "Surabaya",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0357",
@@ -3924,7 +4636,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0358",
@@ -3935,7 +4649,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0359",
@@ -3946,7 +4662,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Kartini",
-    "city": "Surabaya"
+    "city": "Surabaya",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0360",
@@ -3957,7 +4675,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0361",
@@ -3968,7 +4688,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0362",
@@ -3979,7 +4701,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0363",
@@ -3990,7 +4714,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0364",
@@ -4001,7 +4727,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0365",
@@ -4012,7 +4740,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0366",
@@ -4023,7 +4753,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0367",
@@ -4034,7 +4766,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0368",
@@ -4045,7 +4779,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0369",
@@ -4056,7 +4792,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0370",
@@ -4067,7 +4805,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0371",
@@ -4078,7 +4818,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0372",
@@ -4089,7 +4831,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0373",
@@ -4100,7 +4844,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Palupi",
-    "city": "Palu"
+    "city": "Palu",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0374",
@@ -4111,7 +4857,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0375",
@@ -4122,7 +4870,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0376",
@@ -4133,7 +4883,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0377",
@@ -4144,7 +4896,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0378",
@@ -4155,7 +4909,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0379",
@@ -4166,7 +4922,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0380",
@@ -4177,7 +4935,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0381",
@@ -4188,7 +4948,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0382",
@@ -4199,7 +4961,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0383",
@@ -4210,7 +4974,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0384",
@@ -4221,7 +4987,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0385",
@@ -4232,7 +5000,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0386",
@@ -4243,7 +5013,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0387",
@@ -4254,7 +5026,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0388",
@@ -4265,7 +5039,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0389",
@@ -4276,7 +5052,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0390",
@@ -4287,7 +5065,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0391",
@@ -4298,7 +5078,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0392",
@@ -4309,7 +5091,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0393",
@@ -4320,7 +5104,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0394",
@@ -4331,7 +5117,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0395",
@@ -4342,7 +5130,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Josephine",
-    "city": "Ambon"
+    "city": "Ambon",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0396",
@@ -4353,7 +5143,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0397",
@@ -4364,7 +5156,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0398",
@@ -4375,7 +5169,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0399",
@@ -4386,7 +5182,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0400",
@@ -4397,7 +5195,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Prasetya",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0401",
@@ -4408,7 +5208,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0402",
@@ -4419,7 +5221,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0403",
@@ -4430,7 +5234,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0404",
@@ -4441,7 +5247,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0405",
@@ -4452,7 +5260,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0406",
@@ -4463,7 +5273,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0407",
@@ -4474,7 +5286,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0408",
@@ -4485,7 +5299,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0409",
@@ -4496,7 +5312,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0410",
@@ -4507,7 +5325,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0411",
@@ -4518,7 +5338,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0412",
@@ -4529,7 +5351,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0413",
@@ -4540,7 +5364,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0414",
@@ -4551,7 +5377,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0415",
@@ -4562,7 +5390,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0416",
@@ -4573,7 +5403,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0417",
@@ -4584,7 +5416,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0418",
@@ -4595,7 +5429,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0419",
@@ -4606,7 +5442,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0420",
@@ -4617,7 +5455,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0421",
@@ -4628,7 +5468,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0422",
@@ -4639,7 +5481,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0423",
@@ -4650,7 +5494,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0424",
@@ -4661,7 +5507,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0425",
@@ -4672,7 +5520,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0426",
@@ -4683,7 +5533,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0427",
@@ -4694,7 +5546,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0428",
@@ -4705,7 +5559,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Zulkifli",
-    "city": "Pekanbaru"
+    "city": "Pekanbaru",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0429",
@@ -4716,7 +5572,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0430",
@@ -4727,7 +5585,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Riris",
-    "city": "Ketapang"
+    "city": "Ketapang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0431",
@@ -4738,7 +5598,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0432",
@@ -4749,7 +5611,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0433",
@@ -4760,7 +5624,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Annisa, Klinik QSmile",
-    "city": "Tanjung Pinang"
+    "city": "Tanjung Pinang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0434",
@@ -4771,7 +5637,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Lidya",
-    "city": "Banjarbaru"
+    "city": "Banjarbaru",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0435",
@@ -4782,7 +5650,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0436",
@@ -4793,7 +5663,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0437",
@@ -4804,7 +5676,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0438",
@@ -4815,7 +5689,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0439",
@@ -4826,7 +5702,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Wahidin",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0440",
@@ -4837,7 +5715,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0441",
@@ -4848,7 +5728,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0442",
@@ -4859,7 +5741,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0443",
@@ -4870,7 +5754,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0444",
@@ -4881,7 +5767,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0445",
@@ -4892,7 +5780,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0446",
@@ -4903,7 +5793,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0447",
@@ -4914,7 +5806,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0448",
@@ -4925,7 +5819,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Prasetya",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0449",
@@ -4936,7 +5832,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0450",
@@ -4947,7 +5845,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0451",
@@ -4958,7 +5858,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0452",
@@ -4969,7 +5871,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0453",
@@ -4980,7 +5884,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0454",
@@ -4991,7 +5897,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0455",
@@ -5002,7 +5910,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Marthen",
-    "city": "Jayapura"
+    "city": "Jayapura",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0456",
@@ -5013,7 +5923,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0457",
@@ -5024,7 +5936,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0458",
@@ -5035,7 +5949,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Mataram Sehat",
-    "city": "Mataram"
+    "city": "Mataram",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0459",
@@ -5046,7 +5962,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0460",
@@ -5057,7 +5975,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0461",
@@ -5068,7 +5988,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0462",
@@ -5079,7 +6001,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0463",
@@ -5090,7 +6014,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Lukman",
-    "city": "Bandar Lampung"
+    "city": "Bandar Lampung",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0464",
@@ -5101,7 +6027,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0465",
@@ -5112,7 +6040,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0466",
@@ -5123,7 +6053,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0467",
@@ -5134,7 +6066,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0468",
@@ -5145,7 +6079,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0469",
@@ -5156,7 +6092,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0470",
@@ -5167,7 +6105,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Komang",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0471",
@@ -5178,7 +6118,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0472",
@@ -5189,7 +6131,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0473",
@@ -5200,7 +6144,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0474",
@@ -5211,7 +6157,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0475",
@@ -5222,7 +6170,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0476",
@@ -5233,7 +6183,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0477",
@@ -5244,7 +6196,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0478",
@@ -5255,7 +6209,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0479",
@@ -5266,7 +6222,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0480",
@@ -5277,7 +6235,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Sriwijaya",
-    "city": "Palembang"
+    "city": "Palembang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0481",
@@ -5288,7 +6248,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0482",
@@ -5299,7 +6261,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ni Made Zatphika",
-    "city": "Purbalingga"
+    "city": "Purbalingga",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0483",
@@ -5310,7 +6274,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0484",
@@ -5321,7 +6287,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0485",
@@ -5332,7 +6300,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Ferry",
-    "city": "Balikpapan"
+    "city": "Balikpapan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0486",
@@ -5343,7 +6313,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0487",
@@ -5354,7 +6326,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0488",
@@ -5365,7 +6339,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Androw Tandean",
-    "city": "Medan"
+    "city": "Medan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0489",
@@ -5376,7 +6352,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Karolina Br Kaban",
-    "city": "Pontianak"
+    "city": "Pontianak",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0490",
@@ -5387,7 +6365,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Dentalia",
-    "city": "Yogyakarta"
+    "city": "Yogyakarta",
+    "unit_model": "A6-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0491",
@@ -5398,7 +6378,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "RS Fatmawati",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0492",
@@ -5409,7 +6391,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0493",
@@ -5420,7 +6404,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Reza",
-    "city": "Padang"
+    "city": "Padang",
+    "unit_model": "DC-300",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0494",
@@ -5431,7 +6417,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0495",
@@ -5442,7 +6430,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0496",
@@ -5453,7 +6443,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0497",
@@ -5464,7 +6456,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Zeddin Ronald",
-    "city": "Tarakan"
+    "city": "Tarakan",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0498",
@@ -5475,7 +6469,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Sri Wahyuni",
-    "city": "Samarinda"
+    "city": "Samarinda",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0499",
@@ -5486,7 +6482,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0500",
@@ -5497,7 +6495,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "Klinik Kendari Gigi",
-    "city": "Kendari"
+    "city": "Kendari",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0501",
@@ -5508,7 +6508,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0502",
@@ -5519,7 +6521,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Gigi Senyum",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0503",
@@ -5530,7 +6534,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0504",
@@ -5541,7 +6547,9 @@
     "status": "finished",
     "job_category": "training",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0505",
@@ -5552,7 +6560,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0506",
@@ -5563,7 +6573,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Cecilia Angelina",
-    "city": "PIK Jakarta Utara"
+    "city": "PIK Jakarta Utara",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0507",
@@ -5574,7 +6586,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Wulan",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "DC-600",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0508",
@@ -5585,7 +6599,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Jambi Sehat",
-    "city": "Jambi"
+    "city": "Jambi",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0509",
@@ -5596,7 +6612,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Ronny",
-    "city": "Manado"
+    "city": "Manado",
+    "unit_model": "Esay-E5",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0510",
@@ -5607,7 +6625,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Iffah, Klinik Darusyifa Mulia",
-    "city": "Jakarta Selatan"
+    "city": "Jakarta Selatan",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0511",
@@ -5618,7 +6638,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Yohana",
-    "city": "Kupang"
+    "city": "Kupang",
+    "unit_model": "Tealth-Pro",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0512",
@@ -5629,7 +6651,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "RS Kariadi",
-    "city": "Semarang"
+    "city": "Semarang",
+    "unit_model": "Tealth-Lite",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0513",
@@ -5640,7 +6664,9 @@
     "status": "finished",
     "job_category": "survey",
     "clinic_name": "drg. Hasrul",
-    "city": "Makassar"
+    "city": "Makassar",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0514",
@@ -5651,7 +6677,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Bakti",
-    "city": "Bandung"
+    "city": "Bandung",
+    "unit_model": "Joinchamp-JC7",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0515",
@@ -5662,7 +6690,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "drg. Effendi",
-    "city": "Singkawang"
+    "city": "Singkawang",
+    "unit_model": "DC-500",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0516",
@@ -5673,7 +6703,9 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "drg. Muhammad Adnen",
-    "city": "Bekasi"
+    "city": "Bekasi",
+    "unit_model": "A8-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0517",
@@ -5684,7 +6716,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Andi Iskandar",
-    "city": "Nunukan"
+    "city": "Nunukan",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0518",
@@ -5695,7 +6729,9 @@
     "status": "finished",
     "job_category": "maintenance",
     "clinic_name": "Klinik Bali Dental",
-    "city": "Denpasar"
+    "city": "Denpasar",
+    "unit_model": "S60-Panoramic",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0519",
@@ -5706,7 +6742,9 @@
     "status": "finished",
     "job_category": "installation",
     "clinic_name": "drg. Billy",
-    "city": "Karawang"
+    "city": "Karawang",
+    "unit_model": "A4-Cart",
+    "hold_reason": ""
   },
   {
     "ticket_id": "TKT-0520",
@@ -5717,6 +6755,8 @@
     "status": "finished",
     "job_category": "service",
     "clinic_name": "Klinik Batam Dental",
-    "city": "Batam"
+    "city": "Batam",
+    "unit_model": "S80-Panoramic",
+    "hold_reason": ""
   }
 ]

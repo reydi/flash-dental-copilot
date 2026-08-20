@@ -14,6 +14,7 @@ from flash_dental_copilot.analytics_common import ComputedAnswer, mentions_any
 from flash_dental_copilot.capacity_planning import answer_capacity_question
 from flash_dental_copilot.employee_records import Employee
 from flash_dental_copilot.kpi_computation import ServiceTicket
+from flash_dental_copilot.operations_questions import answer_operations_question
 from flash_dental_copilot.people_questions import answer_headcount_question
 from flash_dental_copilot.structured_analytics import MaintenanceRecord
 
@@ -51,6 +52,10 @@ def answer_analytical_question(
     capacity_answer = answer_capacity_question(lowered_question, employees or [], service_tickets)
     if capacity_answer is not None:
         return capacity_answer
+
+    operations_answer = answer_operations_question(lowered_question, service_tickets, maintenance_schedule)
+    if operations_answer is not None:
+        return operations_answer
 
     if "maintenance" in lowered_question and mentions_any(lowered_question, _OVERDUE_WORDS):
         overdue_count = structured_analytics.count_overdue_maintenance(maintenance_schedule)

@@ -22,6 +22,8 @@ class ServiceTicket:
     job_category: str = "service"
     clinic_name: str = ""
     city: str = ""
+    unit_model: str = ""
+    hold_reason: str = ""
 
 
 def _round_to_one_decimal(value: float) -> float:

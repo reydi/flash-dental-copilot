@@ -66,3 +66,38 @@ def list_clinics_for_technician(
         if ticket.technician_name == technician_name and ticket.clinic_name
     }
     return sorted(clinics)
+
+
+def count_repeat_service_by_model(service_tickets: list[ServiceTicket]) -> list[tuple[str, int]]:
+    """How many units of each model came back for a 2nd+ service — worst (most) first."""
+    repairs = [t for t in service_tickets if t.job_category in ("service", "maintenance")]
+    repairs_per_unit = Counter(ticket.unit_serial for ticket in repairs)
+    model_of_serial = {t.unit_serial: t.unit_model for t in service_tickets if t.unit_model}
+    repeat_units_by_model: Counter = Counter()
+    for unit_serial, repair_count in repairs_per_unit.items():
+        if repair_count >= 2:
+            repeat_units_by_model[model_of_serial.get(unit_serial, "unknown")] += 1
+    return repeat_units_by_model.most_common()
+
+
+def rank_technicians_by_backlog(service_tickets: list[ServiceTicket]) -> list[tuple[str, int]]:
+    """Each technician's count of still-open tickets, biggest backlog first."""
+    open_tickets = [t for t in service_tickets if t.status not in ("finished", "cancelled")]
+    return Counter(ticket.technician_name for ticket in open_tickets).most_common()
+
+
+def count_outstanding_by_hold_reason(service_tickets: list[ServiceTicket]) -> list[tuple[str, int]]:
+    """What open tickets are blocked on (spare part, approval, …), most common first."""
+    blocked = [t for t in service_tickets if t.status not in ("finished", "cancelled") and t.hold_reason]
+    return Counter(ticket.hold_reason for ticket in blocked).most_common()
+
+
+def maintenance_compliance(
+    maintenance_schedule: list[MaintenanceRecord],
+) -> tuple[float, int, int]:
+    """On-time maintenance: (compliance percent, on-time count, total) from the schedule."""
+    total = len(maintenance_schedule)
+    if total == 0:
+        return 0.0, 0, 0
+    on_time = sum(1 for record in maintenance_schedule if not record.is_overdue)
+    return round(100.0 * on_time / total, 1), on_time, total

@@ -60,6 +60,8 @@ FIRST_TIME_FIX_MISS_EVERY = {
 DEFAULT_MISS_EVERY = 5
 JOB_CATEGORIES = ["service", "maintenance", "installation", "survey", "training"]
 JOB_CATEGORY_WEIGHTS = [40, 30, 14, 9, 7]
+# What an outstanding ticket is blocked on — the brief's dependency statuses.
+HOLD_REASONS = ["spare part", "customer approval", "customer confirmation"]
 
 
 def build_generated_technician_documents() -> list[dict]:
@@ -79,14 +81,14 @@ def build_generated_technician_documents() -> list[dict]:
 
 
 def build_service_tickets(
-    random_generator: random.Random, serial_to_clinic: dict[str, tuple[str, str]]
+    random_generator: random.Random, serial_to_info: dict[str, tuple[str, str, str]]
 ) -> list[dict]:
-    """Structured tickets: per-technician first-time-fix, a job category, and the clinic served."""
+    """Structured tickets: first-time-fix, job category, clinic served, model, and hold reason."""
     tickets: list[dict] = []
     finished_jobs_per_technician: dict[str, int] = {}
     for sequence_number in range(1, SERVICE_TICKET_COUNT + 1):
         unit_serial = generate_unit_serial((sequence_number % GENERATED_UNIT_COUNT) + 1)
-        clinic_name, city = serial_to_clinic.get(unit_serial, ("", ""))
+        clinic_name, city, unit_model = serial_to_info.get(unit_serial, ("", "", ""))
         technician_name = random_generator.choices(
             FIELD_TECHNICIANS, weights=TECHNICIAN_TICKET_WEIGHTS, k=1
         )[0]
@@ -106,6 +108,8 @@ def build_service_tickets(
             "job_category": random_generator.choices(JOB_CATEGORIES, weights=JOB_CATEGORY_WEIGHTS, k=1)[0],
             "clinic_name": clinic_name,
             "city": city,
+            "unit_model": unit_model,
+            "hold_reason": HOLD_REASONS[sequence_number % len(HOLD_REASONS)] if is_outstanding else "",
         })
     return tickets
 
@@ -144,8 +148,8 @@ def main() -> None:
         if employee["role"] == "Sales Representative"
     ]
     unit_registry = build_unit_registry(random_generator, GENERATED_UNIT_COUNT)
-    serial_to_clinic = {
-        unit["serial"]: (unit["clinic_name"], unit["city"]) for unit in unit_registry
+    serial_to_info = {
+        unit["serial"]: (unit["clinic_name"], unit["city"], unit["model"]) for unit in unit_registry
     }
     asset_documents = (
         CANONICAL_ASSET_DOCUMENTS
@@ -171,7 +175,7 @@ def main() -> None:
         },
     )
     write_json_file(
-        "service_tickets.json", build_service_tickets(random_generator, serial_to_clinic)
+        "service_tickets.json", build_service_tickets(random_generator, serial_to_info)
     )
     write_json_file("maintenance_schedule.json", build_maintenance_schedule(random_generator))
     write_json_file("employees.json", employee_directory)
