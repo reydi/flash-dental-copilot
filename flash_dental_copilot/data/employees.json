@@ -1,0 +1,1214 @@
+[
+  {
+    "employee_id": "EMP-0001",
+    "full_name": "Yudi Pratama",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0002",
+    "full_name": "Dedi Kurniawan",
+    "role": "Field Technician",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0003",
+    "full_name": "Febri Santoso",
+    "role": "Field Technician",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0004",
+    "full_name": "Arga Wibowo",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0005",
+    "full_name": "Arman Hakim",
+    "role": "Field Technician",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0006",
+    "full_name": "Rudi Hartanto",
+    "role": "Field Technician",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0007",
+    "full_name": "Bambang Sutrisno",
+    "role": "Field Technician",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0008",
+    "full_name": "Eko Prasetyo",
+    "role": "Field Technician",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0009",
+    "full_name": "Agus Salim",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0010",
+    "full_name": "Hendra Gunawan",
+    "role": "Field Technician",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0011",
+    "full_name": "Wayan Sudira",
+    "role": "Field Technician",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0012",
+    "full_name": "Made Adnyana",
+    "role": "Field Technician",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0013",
+    "full_name": "Rizal Fahmi",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0014",
+    "full_name": "Toni Wijaya",
+    "role": "Field Technician",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0015",
+    "full_name": "Bagus Setiawan",
+    "role": "Field Technician",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0016",
+    "full_name": "Ivan Kurnia",
+    "role": "Field Technician",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0017",
+    "full_name": "Doni Saputra",
+    "role": "Field Technician",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0018",
+    "full_name": "Fajar Nugraha",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0019",
+    "full_name": "Rendi Pranata",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0020",
+    "full_name": "Slamet Riyadi",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0021",
+    "full_name": "Gilang Ramadhan",
+    "role": "Field Technician",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0022",
+    "full_name": "Wahyu Utomo",
+    "role": "Field Technician",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0023",
+    "full_name": "Bayu Firmansyah",
+    "role": "Field Technician",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0024",
+    "full_name": "Andre Simatupang",
+    "role": "Field Technician",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0025",
+    "full_name": "Wahyu Saputra",
+    "role": "Service Coordinator",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0026",
+    "full_name": "Reza Wibowo",
+    "role": "Service Coordinator",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0027",
+    "full_name": "Novi Siregar",
+    "role": "Service Coordinator",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0028",
+    "full_name": "Dian Kurniawan",
+    "role": "Service Coordinator",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0029",
+    "full_name": "Oki Wijaya",
+    "role": "Service Coordinator",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0030",
+    "full_name": "Oki Pratama",
+    "role": "Service Coordinator",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0031",
+    "full_name": "Putri Tanjung",
+    "role": "Service Coordinator",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0032",
+    "full_name": "Adi Anggraini",
+    "role": "Service Coordinator",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0033",
+    "full_name": "Endang Kurniawan",
+    "role": "Service Coordinator",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0034",
+    "full_name": "Bagus Marpaung",
+    "role": "Service Coordinator",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0035",
+    "full_name": "Budi Anggraini",
+    "role": "Service Coordinator",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0036",
+    "full_name": "Sari Firmansyah",
+    "role": "Service Coordinator",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0037",
+    "full_name": "Andi Halim",
+    "role": "Service Coordinator",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0038",
+    "full_name": "Sari Santoso",
+    "role": "Service Coordinator",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0039",
+    "full_name": "Rahmat Marpaung",
+    "role": "Service Coordinator",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0040",
+    "full_name": "Rina Panjaitan",
+    "role": "Service Coordinator",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0041",
+    "full_name": "Fajar Anggraini",
+    "role": "Service Coordinator",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0042",
+    "full_name": "Fajar Hidayat",
+    "role": "Service Coordinator",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0043",
+    "full_name": "Wahyu Sihombing",
+    "role": "Service Coordinator",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0044",
+    "full_name": "Naufal Utomo",
+    "role": "Service Coordinator",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0045",
+    "full_name": "Hendra Iskandar",
+    "role": "Service Coordinator",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0046",
+    "full_name": "Joko Halim",
+    "role": "Service Coordinator",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0047",
+    "full_name": "Bella Firmansyah",
+    "role": "Service Coordinator",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0048",
+    "full_name": "Sari Siregar",
+    "role": "Service Coordinator",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0049",
+    "full_name": "Intan Wibowo",
+    "role": "Service Coordinator",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0050",
+    "full_name": "Sinta Tanjung",
+    "role": "Service Coordinator",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0051",
+    "full_name": "Rina Sinaga",
+    "role": "Warehouse / Parts Officer",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0052",
+    "full_name": "Putra Santoso",
+    "role": "Warehouse / Parts Officer",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0053",
+    "full_name": "Hendra Sihombing",
+    "role": "Warehouse / Parts Officer",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0054",
+    "full_name": "Nadia Ginting",
+    "role": "Warehouse / Parts Officer",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0055",
+    "full_name": "Intan Manurung",
+    "role": "Warehouse / Parts Officer",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0056",
+    "full_name": "Kartika Anggraini",
+    "role": "Warehouse / Parts Officer",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0057",
+    "full_name": "Bayu Anggraini",
+    "role": "Warehouse / Parts Officer",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0058",
+    "full_name": "Hadi Tanjung",
+    "role": "Warehouse / Parts Officer",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0059",
+    "full_name": "Adi Susanto",
+    "role": "Warehouse / Parts Officer",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0060",
+    "full_name": "Rizki Panjaitan",
+    "role": "Warehouse / Parts Officer",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0061",
+    "full_name": "Andi Hutapea",
+    "role": "Warehouse / Parts Officer",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0062",
+    "full_name": "Nadia Ramadhan",
+    "role": "Warehouse / Parts Officer",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0063",
+    "full_name": "Sinta Utomo",
+    "role": "Warehouse / Parts Officer",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0064",
+    "full_name": "Putri Anggraini",
+    "role": "Warehouse / Parts Officer",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0065",
+    "full_name": "Novi Simanjuntak",
+    "role": "Warehouse / Parts Officer",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0066",
+    "full_name": "Endang Prasetyo",
+    "role": "Warehouse / Parts Officer",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0067",
+    "full_name": "Putri Sitompul",
+    "role": "Warehouse / Parts Officer",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0068",
+    "full_name": "Sari Cahyono",
+    "role": "Warehouse / Parts Officer",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0069",
+    "full_name": "Cahya Hakim",
+    "role": "Warehouse / Parts Officer",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0070",
+    "full_name": "Wahyu Suryadi",
+    "role": "Warehouse / Parts Officer",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0071",
+    "full_name": "Putra Permana",
+    "role": "Warehouse / Parts Officer",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0072",
+    "full_name": "Lestari Suryadi",
+    "role": "Warehouse / Parts Officer",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0073",
+    "full_name": "Indah Marpaung",
+    "role": "Service Manager",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0074",
+    "full_name": "Hadi Nugroho",
+    "role": "Service Manager",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0075",
+    "full_name": "Budi Ginting",
+    "role": "Service Manager",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0076",
+    "full_name": "Rizki Utomo",
+    "role": "Service Manager",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0077",
+    "full_name": "Sinta Simanjuntak",
+    "role": "Service Manager",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0078",
+    "full_name": "Putra Suryadi",
+    "role": "Service Manager",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0079",
+    "full_name": "Anita Maulana",
+    "role": "Service Manager",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0080",
+    "full_name": "Agus Sihombing",
+    "role": "Service Manager",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0081",
+    "full_name": "Eka Suryadi",
+    "role": "Service Manager",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0082",
+    "full_name": "Fitri Prasetyo",
+    "role": "Service Manager",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0083",
+    "full_name": "Kartika Santoso",
+    "role": "Service Manager",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0084",
+    "full_name": "Anita Santoso",
+    "role": "Service Manager",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0085",
+    "full_name": "Intan Wijaya",
+    "role": "Service Manager",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0086",
+    "full_name": "Rizki Nugroho",
+    "role": "Service Manager",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0087",
+    "full_name": "Eka Iskandar",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0088",
+    "full_name": "Aisyah Anggraini",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0089",
+    "full_name": "Hadi Permana",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0090",
+    "full_name": "Surya Hidayat",
+    "role": "Sales Representative",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0091",
+    "full_name": "Bagus Pratama",
+    "role": "Sales Representative",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0092",
+    "full_name": "Reza Hartono",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0093",
+    "full_name": "Citra Siregar",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0094",
+    "full_name": "Bagus Tarigan",
+    "role": "Sales Representative",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0095",
+    "full_name": "Wahyu Anggraini",
+    "role": "Sales Representative",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0096",
+    "full_name": "Naufal Puspita",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0097",
+    "full_name": "Dimas Firmansyah",
+    "role": "Sales Representative",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0098",
+    "full_name": "Rizki Hutapea",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0099",
+    "full_name": "Intan Marpaung",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0100",
+    "full_name": "Endang Ramadhan",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0101",
+    "full_name": "Budi Gunawan",
+    "role": "Sales Representative",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0102",
+    "full_name": "Cahya Santoso",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0103",
+    "full_name": "Bella Wijaya",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0104",
+    "full_name": "Aisyah Hutapea",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0105",
+    "full_name": "Rahmat Suryadi",
+    "role": "Sales Representative",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0106",
+    "full_name": "Intan Ginting",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0107",
+    "full_name": "Citra Sitompul",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0108",
+    "full_name": "Dewi Prasetyo",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0109",
+    "full_name": "Indah Simanjuntak",
+    "role": "Sales Representative",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0110",
+    "full_name": "Maya Hakim",
+    "role": "Sales Representative",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0111",
+    "full_name": "Fitri Manurung",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0112",
+    "full_name": "Rani Marpaung",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0113",
+    "full_name": "Wahyu Cahyono",
+    "role": "Sales Representative",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0114",
+    "full_name": "Intan Nasution",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0115",
+    "full_name": "Hendra Suryadi",
+    "role": "Sales Representative",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0116",
+    "full_name": "Maya Sinaga",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0117",
+    "full_name": "Bagus Sinaga",
+    "role": "Sales Representative",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0118",
+    "full_name": "Endang Firmansyah",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0119",
+    "full_name": "Anita Hakim",
+    "role": "Sales Representative",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0120",
+    "full_name": "Putri Utomo",
+    "role": "Sales Representative",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0121",
+    "full_name": "Sinta Nugroho",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0122",
+    "full_name": "Agus Saputra",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0123",
+    "full_name": "Fajar Nurdin",
+    "role": "Sales Representative",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0124",
+    "full_name": "Putra Wibowo",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0125",
+    "full_name": "Novi Wijaya",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0126",
+    "full_name": "Dewi Hutapea",
+    "role": "Sales Representative",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0127",
+    "full_name": "Novi Kurniawan",
+    "role": "Sales Representative",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0128",
+    "full_name": "Rani Suryadi",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0129",
+    "full_name": "Hadi Anggraini",
+    "role": "Sales Representative",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0130",
+    "full_name": "Cahya Ramadhan",
+    "role": "Sales Representative",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0131",
+    "full_name": "Putra Wijaya",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0132",
+    "full_name": "Dewi Sitompul",
+    "role": "Sales Representative",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0133",
+    "full_name": "Indah Permana",
+    "role": "Sales Representative",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0134",
+    "full_name": "Tari Wijaya",
+    "role": "Sales Representative",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0135",
+    "full_name": "Joko Permana",
+    "role": "Sales Representative",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0136",
+    "full_name": "Sari Ramadhan",
+    "role": "Sales Representative",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0137",
+    "full_name": "Anita Nugroho",
+    "role": "Sales Representative",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0138",
+    "full_name": "Indah Sinaga",
+    "role": "Sales Representative",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0139",
+    "full_name": "Rizki Sihombing",
+    "role": "Finance Officer",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0140",
+    "full_name": "Kartika Nurdin",
+    "role": "Finance Officer",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0141",
+    "full_name": "Kartika Suryadi",
+    "role": "Finance Officer",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0142",
+    "full_name": "Eka Santoso",
+    "role": "Finance Officer",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0143",
+    "full_name": "Rani Utomo",
+    "role": "Finance Officer",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0144",
+    "full_name": "Indah Hutapea",
+    "role": "Finance Officer",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0145",
+    "full_name": "Andi Nugroho",
+    "role": "Finance Officer",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0146",
+    "full_name": "Hendra Handoko",
+    "role": "Finance Officer",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0147",
+    "full_name": "Putra Utomo",
+    "role": "Finance Officer",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0148",
+    "full_name": "Dimas Maulana",
+    "role": "Finance Officer",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0149",
+    "full_name": "Intan Panjaitan",
+    "role": "Finance Officer",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0150",
+    "full_name": "Rahmat Nugroho",
+    "role": "Finance Officer",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0151",
+    "full_name": "Yusuf Utomo",
+    "role": "Customer Support Agent",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0152",
+    "full_name": "Naufal Gunawan",
+    "role": "Customer Support Agent",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0153",
+    "full_name": "Anita Puspita",
+    "role": "Customer Support Agent",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0154",
+    "full_name": "Fitri Sihombing",
+    "role": "Customer Support Agent",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0155",
+    "full_name": "Citra Kurniawan",
+    "role": "Customer Support Agent",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0156",
+    "full_name": "Intan Maulana",
+    "role": "Customer Support Agent",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0157",
+    "full_name": "Rina Manurung",
+    "role": "Customer Support Agent",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0158",
+    "full_name": "Rahmat Sitompul",
+    "role": "Customer Support Agent",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0159",
+    "full_name": "Rizki Cahyono",
+    "role": "Customer Support Agent",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0160",
+    "full_name": "Rina Ramadhan",
+    "role": "Customer Support Agent",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0161",
+    "full_name": "Naufal Sihombing",
+    "role": "Customer Support Agent",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0162",
+    "full_name": "Rizki Handoko",
+    "role": "Customer Support Agent",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0163",
+    "full_name": "Citra Cahyono",
+    "role": "Customer Support Agent",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0164",
+    "full_name": "Andi Anggraini",
+    "role": "Customer Support Agent",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0165",
+    "full_name": "Yusuf Setiawan",
+    "role": "Customer Support Agent",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0166",
+    "full_name": "Endang Puspita",
+    "role": "Customer Support Agent",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0167",
+    "full_name": "Budi Cahyono",
+    "role": "Customer Support Agent",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0168",
+    "full_name": "Naufal Ramadhan",
+    "role": "Customer Support Agent",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0169",
+    "full_name": "Putri Marpaung",
+    "role": "Customer Support Agent",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0170",
+    "full_name": "Adi Simanjuntak",
+    "role": "Customer Support Agent",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0171",
+    "full_name": "Yusuf Siregar",
+    "role": "Customer Support Agent",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0172",
+    "full_name": "Cahya Sitompul",
+    "role": "Customer Support Agent",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0173",
+    "full_name": "Intan Anggraini",
+    "role": "Customer Support Agent",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0174",
+    "full_name": "Cahya Hutapea",
+    "role": "Customer Support Agent",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0175",
+    "full_name": "Cahya Hartono",
+    "role": "Customer Support Agent",
+    "region": "East Java"
+  },
+  {
+    "employee_id": "EMP-0176",
+    "full_name": "Rina Gunawan",
+    "role": "Customer Support Agent",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0177",
+    "full_name": "Sari Sihombing",
+    "role": "Customer Support Agent",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0178",
+    "full_name": "Putri Sinaga",
+    "role": "Customer Support Agent",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0179",
+    "full_name": "Cahya Suryadi",
+    "role": "Customer Support Agent",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0180",
+    "full_name": "Nadia Firmansyah",
+    "role": "Customer Support Agent",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0181",
+    "full_name": "Fitri Ginting",
+    "role": "Regional Admin",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0182",
+    "full_name": "Joko Nasution",
+    "role": "Regional Admin",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0183",
+    "full_name": "Citra Halim",
+    "role": "Regional Admin",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0184",
+    "full_name": "Naufal Panjaitan",
+    "role": "Regional Admin",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0185",
+    "full_name": "Putra Pratama",
+    "role": "Regional Admin",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0186",
+    "full_name": "Naufal Kurniawan",
+    "role": "Regional Admin",
+    "region": "Sulawesi"
+  },
+  {
+    "employee_id": "EMP-0187",
+    "full_name": "Surya Gunawan",
+    "role": "Regional Admin",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0188",
+    "full_name": "Andi Setiawan",
+    "role": "Regional Admin",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0189",
+    "full_name": "Naufal Setiawan",
+    "role": "Regional Admin",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0190",
+    "full_name": "Oki Maulana",
+    "role": "Regional Admin",
+    "region": "Kalimantan"
+  },
+  {
+    "employee_id": "EMP-0191",
+    "full_name": "Agus Anggraini",
+    "role": "Regional Admin",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0192",
+    "full_name": "Yusuf Panjaitan",
+    "role": "Regional Admin",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0193",
+    "full_name": "Yusuf Kurniawan",
+    "role": "Regional Admin",
+    "region": "West Java"
+  },
+  {
+    "employee_id": "EMP-0194",
+    "full_name": "Rahmat Hutapea",
+    "role": "Regional Admin",
+    "region": "Bali & Nusa Tenggara"
+  },
+  {
+    "employee_id": "EMP-0195",
+    "full_name": "Wahyu Manurung",
+    "role": "Regional Admin",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0196",
+    "full_name": "Sari Sinaga",
+    "role": "Regional Admin",
+    "region": "Sumatra"
+  },
+  {
+    "employee_id": "EMP-0197",
+    "full_name": "Gita Halim",
+    "role": "Regional Admin",
+    "region": "Central Java"
+  },
+  {
+    "employee_id": "EMP-0198",
+    "full_name": "Maya Halim",
+    "role": "Regional Admin",
+    "region": "Papua & Maluku"
+  },
+  {
+    "employee_id": "EMP-0199",
+    "full_name": "Anita Gunawan",
+    "role": "Executive",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0200",
+    "full_name": "Bella Ginting",
+    "role": "Executive",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0201",
+    "full_name": "Gita Panjaitan",
+    "role": "Executive",
+    "region": "Jabodetabek"
+  },
+  {
+    "employee_id": "EMP-0202",
+    "full_name": "Putri Ginting",
+    "role": "Executive",
+    "region": "Jabodetabek"
+  }
+]

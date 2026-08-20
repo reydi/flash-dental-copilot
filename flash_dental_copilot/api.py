@@ -16,6 +16,7 @@ from flash_dental_copilot.corpus import (
     available_domain_names,
     load_domain_corpus,
 )
+from flash_dental_copilot.employee_records import load_employees
 from flash_dental_copilot.grounding import (
     ABSTAIN_SIMILARITY_THRESHOLD,
     GroundedAnswer,
@@ -53,6 +54,7 @@ _DOMAIN_CORPORA: dict[str, DomainCorpus] = {
 }
 _SERVICE_TICKETS = load_service_tickets()
 _MAINTENANCE_SCHEDULE = load_maintenance_schedule()
+_EMPLOYEES = load_employees()
 
 
 @application.get("/health")
@@ -88,7 +90,7 @@ def answer_question(ask_request: AskRequest) -> AskResponse:
     )
 
     computed_answer = answer_analytical_question(
-        ask_request.question, _SERVICE_TICKETS, _MAINTENANCE_SCHEDULE
+        ask_request.question, _SERVICE_TICKETS, _MAINTENANCE_SCHEDULE, _EMPLOYEES
     )
     if computed_answer is not None:
         return AskResponse(

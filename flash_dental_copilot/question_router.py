@@ -10,6 +10,7 @@ from dataclasses import dataclass
 from typing import Optional
 
 from flash_dental_copilot import structured_analytics
+from flash_dental_copilot.employee_records import Employee, count_employees_in_role
 from flash_dental_copilot.kpi_computation import ServiceTicket
 from flash_dental_copilot.structured_analytics import MaintenanceRecord
 
@@ -25,6 +26,21 @@ _JOB_CATEGORY_KEYWORDS = {
 _OVERDUE_WORDS = ("overdue", "delayed", "late", "past due")
 _WORST_WORDS = ("least", "worst", "lowest", "underperform", "bottom")
 _BEST_WORDS = ("best", "top", "highest", "busiest", "most")
+_HEADCOUNT_WORDS = ("how many", "number of", "count of", "headcount")
+_PEOPLE_WORDS = ("employee", "people", "staff", "headcount", "work at")
+# A role word in the question, mapped to its directory role title.
+_ROLE_KEYWORDS = {
+    "technician": "Field Technician",
+    "coordinator": "Service Coordinator",
+    "warehouse": "Warehouse / Parts Officer",
+    "parts": "Warehouse / Parts Officer",
+    "sales": "Sales Representative",
+    "manager": "Service Manager",
+    "finance": "Finance Officer",
+    "support": "Customer Support Agent",
+    "admin": "Regional Admin",
+    "executive": "Executive",
+}
 
 
 @dataclass(frozen=True)
@@ -38,9 +54,14 @@ def answer_analytical_question(
     question: str,
     service_tickets: list[ServiceTicket],
     maintenance_schedule: list[MaintenanceRecord],
+    employees: Optional[list[Employee]] = None,
 ) -> Optional[ComputedAnswer]:
     """Return a computed answer for an aggregate question, or None to defer to retrieval."""
     lowered_question = question.lower()
+
+    headcount_answer = _answer_headcount_question(lowered_question, employees or [])
+    if headcount_answer is not None:
+        return headcount_answer
 
     if "maintenance" in lowered_question and _mentions_any(lowered_question, _OVERDUE_WORDS):
         overdue_count = structured_analytics.count_overdue_maintenance(maintenance_schedule)
@@ -87,6 +108,35 @@ def answer_analytical_question(
             "counted from the service tickets",
         )
 
+    return None
+
+
+def _answer_headcount_question(
+    lowered_question: str, employees: list[Employee]
+) -> Optional[ComputedAnswer]:
+    """Count people by role, or in total, when the question asks how many staff there are."""
+    if not employees or not _mentions_any(lowered_question, _HEADCOUNT_WORDS):
+        return None
+    role_title = _resolve_role(lowered_question)
+    if role_title is not None:
+        role_count = count_employees_in_role(employees, role_title)
+        return ComputedAnswer(
+            f"Flash Dental has {role_count} {role_title}s.",
+            "counted from the employee directory",
+        )
+    if _mentions_any(lowered_question, _PEOPLE_WORDS):
+        return ComputedAnswer(
+            f"Flash Dental has {len(employees)} employees across all roles.",
+            "counted the employee directory",
+        )
+    return None
+
+
+def _resolve_role(lowered_question: str) -> Optional[str]:
+    """The directory role a question names, or None if it names no role."""
+    for keyword, role_title in _ROLE_KEYWORDS.items():
+        if keyword in lowered_question:
+            return role_title
     return None
 
 

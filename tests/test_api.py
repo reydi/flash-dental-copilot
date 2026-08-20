@@ -67,6 +67,25 @@ def test_analytical_question_is_computed_not_retrieved():
     assert any(character.isdigit() for character in body["answer_text"])
 
 
+def test_headcount_question_is_computed_from_the_directory():
+    response = client.post(
+        "/ask", json={"domain": "technicians", "question": "how many field technicians do we have?"}
+    )
+    body = response.json()
+    assert body["answer_kind"] == "computed"
+    assert "24 Field Technician" in body["answer_text"]
+
+
+def test_org_role_question_retrieves_the_business_flow_document():
+    response = client.post(
+        "/ask",
+        json={"domain": "technicians", "question": "who dispatches a technician to a reported fault?"},
+    )
+    body = response.json()
+    assert body["abstained"] is False
+    assert "dispatch" in body["answer_text"].lower()
+
+
 def test_unknown_domain_returns_404():
     response = client.post("/ask", json={"domain": "spaceships", "question": "hello"})
     assert response.status_code == 404

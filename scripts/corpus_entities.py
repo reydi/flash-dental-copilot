@@ -6,9 +6,13 @@ carry the FD-1042 story the demo is told around. No logic lives here.
 """
 from __future__ import annotations
 
-SERVICE_MODELS = ["DC-300", "DC-500", "A6-Cart", "A4-Cart", "S60-Panoramic", "Tealth-Lite"]
+SERVICE_MODELS = [
+    "DC-300", "DC-500", "DC-600", "A6-Cart", "A4-Cart", "A8-Cart",
+    "S60-Panoramic", "S80-Panoramic", "Tealth-Lite", "Tealth-Pro", "Esay-E5", "Joinchamp-JC7",
+]
 
-# (clinic_name, city) — drawn from Flash Dental's real June service log.
+# (clinic_name, city) — the first fourteen are Flash Dental's real June service log;
+# the rest fill out a nationwide install base across Indonesia's service regions.
 DENTAL_CLINICS = [
     ("drg. Iffah, Klinik Darusyifa Mulia", "Jakarta Selatan"),
     ("drg. Lidya", "Banjarbaru"),
@@ -24,14 +28,60 @@ DENTAL_CLINICS = [
     ("drg. Muhammad Adnen", "Bekasi"),
     ("drg. Karolina Br Kaban", "Pontianak"),
     ("drg. Androw Tandean", "Medan"),
+    ("drg. Bakti", "Bandung"),
+    ("Klinik Gigi Senyum", "Bandung"),
+    ("drg. Wulan", "Semarang"),
+    ("RS Kariadi", "Semarang"),
+    ("drg. Prasetya", "Yogyakarta"),
+    ("Klinik Dentalia", "Yogyakarta"),
+    ("drg. Komang", "Denpasar"),
+    ("Klinik Bali Dental", "Denpasar"),
+    ("drg. Hasrul", "Makassar"),
+    ("RS Wahidin", "Makassar"),
+    ("drg. Ferry", "Balikpapan"),
+    ("drg. Sri Wahyuni", "Samarinda"),
+    ("Klinik Sriwijaya", "Palembang"),
+    ("drg. Zulkifli", "Pekanbaru"),
+    ("Klinik Batam Dental", "Batam"),
+    ("drg. Ronny", "Manado"),
+    ("drg. Josephine", "Ambon"),
+    ("drg. Marthen", "Jayapura"),
+    ("drg. Yohana", "Kupang"),
+    ("Klinik Mataram Sehat", "Mataram"),
+    ("drg. Reza", "Padang"),
+    ("drg. Lukman", "Bandar Lampung"),
+    ("Klinik Jambi Sehat", "Jambi"),
+    ("drg. Palupi", "Palu"),
+    ("Klinik Kendari Gigi", "Kendari"),
+    ("drg. Effendi", "Singkawang"),
 ]
 
+# The five flagship technicians the story names, then a wider field team across regions.
 FIELD_TECHNICIANS = [
     "Yudi Pratama",
     "Dedi Kurniawan",
     "Febri Santoso",
     "Arga Wibowo",
     "Arman Hakim",
+    "Rudi Hartanto",
+    "Bambang Sutrisno",
+    "Eko Prasetyo",
+    "Agus Salim",
+    "Hendra Gunawan",
+    "Wayan Sudira",
+    "Made Adnyana",
+    "Rizal Fahmi",
+    "Toni Wijaya",
+    "Bagus Setiawan",
+    "Ivan Kurnia",
+    "Doni Saputra",
+    "Fajar Nugraha",
+    "Rendi Pranata",
+    "Slamet Riyadi",
+    "Gilang Ramadhan",
+    "Wahyu Utomo",
+    "Bayu Firmansyah",
+    "Andre Simatupang",
 ]
 
 # (complaint_phrase, spare_part, root_cause_hint)
@@ -43,6 +93,11 @@ FAULT_SYMPTOMS = [
     ("panoramic adaptor dead", "panoramic adaptor", "a failed S60 panoramic adaptor"),
     ("compressor overheating", "compressor filter", "a blocked compressor filter"),
     ("handpiece not spinning", "handpiece", "worn handpiece bearings"),
+    ("LED operatory light out", "LED light module", "a failed LED light module"),
+    ("foot pedal unresponsive", "foot pedal", "a worn foot-pedal switch"),
+    ("air compressor pressure drop", "compressor pressure valve", "a leaking compressor pressure valve"),
+    ("x-ray sensor miscalibrated", "x-ray sensor", "an x-ray sensor out of calibration"),
+    ("autoclave not sealing", "autoclave gasket", "a perished autoclave door gasket"),
 ]
 
 # The FD-1042 story, hand-authored so the demo's headline questions always land.

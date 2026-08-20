@@ -2,43 +2,43 @@
   {
     "ticket_id": "TKT-0001",
     "unit_serial": "EX92026030002",
-    "technician_name": "Dedi Kurniawan",
+    "technician_name": "Febri Santoso",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 13,
+    "cycle_time_days": 6,
     "status": "outstanding",
-    "job_category": "service"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0002",
     "unit_serial": "EX92026030003",
-    "technician_name": "Dedi Kurniawan",
+    "technician_name": "Bagus Setiawan",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 12,
+    "cycle_time_days": 10,
     "status": "outstanding",
-    "job_category": "installation"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0003",
     "unit_serial": "EX92026030004",
-    "technician_name": "Yudi Pratama",
+    "technician_name": "Wayan Sudira",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 4,
+    "cycle_time_days": 15,
     "status": "outstanding",
-    "job_category": "installation"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0004",
     "unit_serial": "EX92026030005",
-    "technician_name": "Arga Wibowo",
+    "technician_name": "Febri Santoso",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 7,
+    "cycle_time_days": 12,
     "status": "outstanding",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0005",
     "unit_serial": "EX92026030006",
-    "technician_name": "Dedi Kurniawan",
+    "technician_name": "Fajar Nugraha",
     "was_fixed_first_visit": false,
     "cycle_time_days": 2,
     "status": "outstanding",
@@ -47,717 +47,1905 @@
   {
     "ticket_id": "TKT-0006",
     "unit_serial": "EX92026030007",
-    "technician_name": "Arga Wibowo",
+    "technician_name": "Arman Hakim",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 7,
+    "cycle_time_days": 2,
     "status": "outstanding",
-    "job_category": "service"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0007",
     "unit_serial": "EX92026030008",
-    "technician_name": "Yudi Pratama",
+    "technician_name": "Rizal Fahmi",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 8,
+    "cycle_time_days": 13,
     "status": "outstanding",
-    "job_category": "service"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0008",
     "unit_serial": "EX92026030009",
-    "technician_name": "Dedi Kurniawan",
+    "technician_name": "Rudi Hartanto",
     "was_fixed_first_visit": false,
     "cycle_time_days": 13,
-    "status": "finished",
-    "job_category": "service"
+    "status": "outstanding",
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0009",
     "unit_serial": "EX92026030010",
-    "technician_name": "Yudi Pratama",
+    "technician_name": "Arga Wibowo",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 8,
-    "status": "finished",
-    "job_category": "maintenance"
+    "cycle_time_days": 5,
+    "status": "outstanding",
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0010",
     "unit_serial": "EX92026030011",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 2,
-    "status": "finished",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 9,
+    "status": "outstanding",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0011",
     "unit_serial": "EX92026030012",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
-    "status": "finished",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
+    "status": "outstanding",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0012",
     "unit_serial": "EX92026030013",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 10,
-    "status": "finished",
-    "job_category": "service"
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "outstanding",
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0013",
     "unit_serial": "EX92026030014",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 8,
-    "status": "finished",
-    "job_category": "service"
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "outstanding",
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0014",
     "unit_serial": "EX92026030015",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
-    "status": "finished",
-    "job_category": "service"
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 11,
+    "status": "outstanding",
+    "job_category": "installation"
   },
   {
     "ticket_id": "TKT-0015",
     "unit_serial": "EX92026030016",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 11,
-    "status": "finished",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "outstanding",
     "job_category": "service"
   },
   {
     "ticket_id": "TKT-0016",
     "unit_serial": "EX92026030017",
-    "technician_name": "Febri Santoso",
+    "technician_name": "Doni Saputra",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 10,
-    "status": "finished",
-    "job_category": "service"
+    "cycle_time_days": 11,
+    "status": "outstanding",
+    "job_category": "survey"
   },
   {
     "ticket_id": "TKT-0017",
     "unit_serial": "EX92026030018",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
-    "status": "finished",
-    "job_category": "maintenance"
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 10,
+    "status": "outstanding",
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0018",
     "unit_serial": "EX92026030019",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
-    "status": "finished",
-    "job_category": "survey"
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "outstanding",
+    "job_category": "training"
   },
   {
     "ticket_id": "TKT-0019",
     "unit_serial": "EX92026030020",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 7,
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
     "status": "finished",
-    "job_category": "maintenance"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0020",
     "unit_serial": "EX92026030021",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
     "status": "finished",
-    "job_category": "installation"
+    "job_category": "survey"
   },
   {
     "ticket_id": "TKT-0021",
     "unit_serial": "EX92026030022",
     "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
     "status": "finished",
-    "job_category": "survey"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0022",
     "unit_serial": "EX92026030023",
-    "technician_name": "Yudi Pratama",
+    "technician_name": "Agus Salim",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 12,
+    "cycle_time_days": 9,
     "status": "finished",
     "job_category": "service"
   },
   {
     "ticket_id": "TKT-0023",
     "unit_serial": "EX92026030024",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0024",
     "unit_serial": "EX92026030025",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0025",
+    "unit_serial": "EX92026030026",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": false,
     "cycle_time_days": 3,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0025",
-    "unit_serial": "EX92026030026",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 13,
-    "status": "finished",
-    "job_category": "installation"
-  },
-  {
     "ticket_id": "TKT-0026",
     "unit_serial": "EX92026030027",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 10,
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0027",
     "unit_serial": "EX92026030028",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
     "status": "finished",
     "job_category": "service"
   },
   {
     "ticket_id": "TKT-0028",
     "unit_serial": "EX92026030029",
-    "technician_name": "Yudi Pratama",
+    "technician_name": "Gilang Ramadhan",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
+    "cycle_time_days": 15,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0029",
     "unit_serial": "EX92026030030",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 13,
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
     "status": "finished",
-    "job_category": "installation"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0030",
     "unit_serial": "EX92026030031",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 8,
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
     "status": "finished",
-    "job_category": "survey"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0031",
     "unit_serial": "EX92026030032",
-    "technician_name": "Arman Hakim",
+    "technician_name": "Eko Prasetyo",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 13,
+    "cycle_time_days": 2,
     "status": "finished",
-    "job_category": "maintenance"
+    "job_category": "installation"
   },
   {
     "ticket_id": "TKT-0032",
     "unit_serial": "EX92026030033",
     "technician_name": "Arman Hakim",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 2,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0033",
-    "unit_serial": "EX92026030034",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 4,
+    "cycle_time_days": 16,
     "status": "finished",
     "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0034",
-    "unit_serial": "EX92026030001",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "ticket_id": "TKT-0033",
+    "unit_serial": "EX92026030034",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
     "status": "finished",
-    "job_category": "maintenance"
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0034",
+    "unit_serial": "EX92026030035",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "installation"
   },
   {
     "ticket_id": "TKT-0035",
-    "unit_serial": "EX92026030002",
-    "technician_name": "Arga Wibowo",
+    "unit_serial": "EX92026030036",
+    "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
+    "cycle_time_days": 4,
     "status": "finished",
-    "job_category": "survey"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0036",
-    "unit_serial": "EX92026030003",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
+    "unit_serial": "EX92026030037",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 3,
     "status": "finished",
     "job_category": "service"
   },
   {
     "ticket_id": "TKT-0037",
-    "unit_serial": "EX92026030004",
-    "technician_name": "Febri Santoso",
+    "unit_serial": "EX92026030038",
+    "technician_name": "Arman Hakim",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0038",
+    "unit_serial": "EX92026030039",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
     "status": "finished",
     "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0038",
-    "unit_serial": "EX92026030005",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
     "ticket_id": "TKT-0039",
-    "unit_serial": "EX92026030006",
-    "technician_name": "Dedi Kurniawan",
+    "unit_serial": "EX92026030040",
+    "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
+    "cycle_time_days": 10,
     "status": "finished",
     "job_category": "service"
   },
   {
     "ticket_id": "TKT-0040",
-    "unit_serial": "EX92026030007",
-    "technician_name": "Arman Hakim",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 8,
+    "unit_serial": "EX92026030041",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0041",
-    "unit_serial": "EX92026030008",
-    "technician_name": "Febri Santoso",
+    "unit_serial": "EX92026030042",
+    "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 2,
     "status": "finished",
-    "job_category": "survey"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0042",
-    "unit_serial": "EX92026030009",
-    "technician_name": "Yudi Pratama",
+    "unit_serial": "EX92026030043",
+    "technician_name": "Agus Salim",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 11,
+    "cycle_time_days": 14,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0043",
-    "unit_serial": "EX92026030010",
-    "technician_name": "Arga Wibowo",
+    "unit_serial": "EX92026030044",
+    "technician_name": "Eko Prasetyo",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 11,
+    "cycle_time_days": 10,
     "status": "finished",
-    "job_category": "installation"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0044",
-    "unit_serial": "EX92026030011",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
+    "unit_serial": "EX92026030045",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 13,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0045",
-    "unit_serial": "EX92026030012",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 8,
+    "unit_serial": "EX92026030046",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 9,
     "status": "finished",
-    "job_category": "installation"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0046",
-    "unit_serial": "EX92026030013",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 4,
+    "unit_serial": "EX92026030047",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0047",
-    "unit_serial": "EX92026030014",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 8,
+    "unit_serial": "EX92026030048",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
     "status": "finished",
     "job_category": "service"
   },
   {
     "ticket_id": "TKT-0048",
-    "unit_serial": "EX92026030015",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 4,
+    "unit_serial": "EX92026030049",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 12,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "installation"
   },
   {
     "ticket_id": "TKT-0049",
-    "unit_serial": "EX92026030016",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 9,
+    "unit_serial": "EX92026030050",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0050",
-    "unit_serial": "EX92026030017",
-    "technician_name": "Yudi Pratama",
+    "unit_serial": "EX92026030051",
+    "technician_name": "Ivan Kurnia",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 4,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0051",
-    "unit_serial": "EX92026030018",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 13,
+    "cycle_time_days": 9,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0052",
-    "unit_serial": "EX92026030019",
-    "technician_name": "Yudi Pratama",
+    "ticket_id": "TKT-0051",
+    "unit_serial": "EX92026030052",
+    "technician_name": "Toni Wijaya",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0052",
+    "unit_serial": "EX92026030053",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 17,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0053",
-    "unit_serial": "EX92026030020",
-    "technician_name": "Febri Santoso",
+    "unit_serial": "EX92026030054",
+    "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 10,
+    "cycle_time_days": 16,
     "status": "finished",
-    "job_category": "maintenance"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0054",
-    "unit_serial": "EX92026030021",
-    "technician_name": "Febri Santoso",
+    "unit_serial": "EX92026030055",
+    "technician_name": "Agus Salim",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
+    "cycle_time_days": 10,
     "status": "finished",
-    "job_category": "installation"
+    "job_category": "service"
   },
   {
     "ticket_id": "TKT-0055",
-    "unit_serial": "EX92026030022",
-    "technician_name": "Yudi Pratama",
+    "unit_serial": "EX92026030056",
+    "technician_name": "Arman Hakim",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 10,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0056",
-    "unit_serial": "EX92026030023",
+    "unit_serial": "EX92026030057",
     "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 2,
+    "cycle_time_days": 17,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "maintenance"
   },
   {
     "ticket_id": "TKT-0057",
-    "unit_serial": "EX92026030024",
-    "technician_name": "Arga Wibowo",
+    "unit_serial": "EX92026030058",
+    "technician_name": "Slamet Riyadi",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 4,
+    "cycle_time_days": 13,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "installation"
   },
   {
     "ticket_id": "TKT-0058",
-    "unit_serial": "EX92026030025",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0059",
-    "unit_serial": "EX92026030026",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 2,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0060",
-    "unit_serial": "EX92026030027",
-    "technician_name": "Yudi Pratama",
+    "unit_serial": "EX92026030059",
+    "technician_name": "Eko Prasetyo",
     "was_fixed_first_visit": true,
     "cycle_time_days": 6,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
+    "ticket_id": "TKT-0059",
+    "unit_serial": "EX92026030060",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0060",
+    "unit_serial": "EX92026030061",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
     "ticket_id": "TKT-0061",
-    "unit_serial": "EX92026030028",
+    "unit_serial": "EX92026030062",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0062",
+    "unit_serial": "EX92026030063",
     "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0063",
+    "unit_serial": "EX92026030064",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0064",
+    "unit_serial": "EX92026030065",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0065",
+    "unit_serial": "EX92026030066",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0066",
+    "unit_serial": "EX92026030067",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0067",
+    "unit_serial": "EX92026030068",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0068",
+    "unit_serial": "EX92026030069",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0069",
+    "unit_serial": "EX92026030070",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0070",
+    "unit_serial": "EX92026030071",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0071",
+    "unit_serial": "EX92026030072",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0072",
+    "unit_serial": "EX92026030073",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0073",
+    "unit_serial": "EX92026030074",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0074",
+    "unit_serial": "EX92026030075",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0075",
+    "unit_serial": "EX92026030076",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0076",
+    "unit_serial": "EX92026030077",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0077",
+    "unit_serial": "EX92026030078",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0078",
+    "unit_serial": "EX92026030079",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0079",
+    "unit_serial": "EX92026030080",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0080",
+    "unit_serial": "EX92026030081",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0081",
+    "unit_serial": "EX92026030082",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0082",
+    "unit_serial": "EX92026030083",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0083",
+    "unit_serial": "EX92026030084",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0084",
+    "unit_serial": "EX92026030085",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0085",
+    "unit_serial": "EX92026030086",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0086",
+    "unit_serial": "EX92026030087",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0087",
+    "unit_serial": "EX92026030088",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0088",
+    "unit_serial": "EX92026030089",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0089",
+    "unit_serial": "EX92026030090",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0090",
+    "unit_serial": "EX92026030091",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0091",
+    "unit_serial": "EX92026030092",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0092",
+    "unit_serial": "EX92026030093",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0093",
+    "unit_serial": "EX92026030094",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0094",
+    "unit_serial": "EX92026030095",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0095",
+    "unit_serial": "EX92026030096",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0096",
+    "unit_serial": "EX92026030097",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0097",
+    "unit_serial": "EX92026030098",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0098",
+    "unit_serial": "EX92026030099",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0099",
+    "unit_serial": "EX92026030100",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0100",
+    "unit_serial": "EX92026030101",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0101",
+    "unit_serial": "EX92026030102",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0102",
+    "unit_serial": "EX92026030103",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0103",
+    "unit_serial": "EX92026030104",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0104",
+    "unit_serial": "EX92026030105",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0105",
+    "unit_serial": "EX92026030106",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0106",
+    "unit_serial": "EX92026030107",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0107",
+    "unit_serial": "EX92026030108",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0108",
+    "unit_serial": "EX92026030109",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0109",
+    "unit_serial": "EX92026030110",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0110",
+    "unit_serial": "EX92026030111",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0111",
+    "unit_serial": "EX92026030112",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0112",
+    "unit_serial": "EX92026030113",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0113",
+    "unit_serial": "EX92026030114",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0114",
+    "unit_serial": "EX92026030115",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0115",
+    "unit_serial": "EX92026030116",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0116",
+    "unit_serial": "EX92026030117",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0117",
+    "unit_serial": "EX92026030118",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0118",
+    "unit_serial": "EX92026030119",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0119",
+    "unit_serial": "EX92026030120",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0120",
+    "unit_serial": "EX92026030121",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0121",
+    "unit_serial": "EX92026030122",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0122",
+    "unit_serial": "EX92026030123",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0123",
+    "unit_serial": "EX92026030124",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0124",
+    "unit_serial": "EX92026030125",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0125",
+    "unit_serial": "EX92026030126",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0126",
+    "unit_serial": "EX92026030127",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0127",
+    "unit_serial": "EX92026030128",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0128",
+    "unit_serial": "EX92026030129",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0129",
+    "unit_serial": "EX92026030130",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0130",
+    "unit_serial": "EX92026030131",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0131",
+    "unit_serial": "EX92026030132",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0132",
+    "unit_serial": "EX92026030133",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0133",
+    "unit_serial": "EX92026030134",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0134",
+    "unit_serial": "EX92026030135",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0135",
+    "unit_serial": "EX92026030136",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0136",
+    "unit_serial": "EX92026030137",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0137",
+    "unit_serial": "EX92026030138",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0138",
+    "unit_serial": "EX92026030139",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0139",
+    "unit_serial": "EX92026030140",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0140",
+    "unit_serial": "EX92026030141",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0141",
+    "unit_serial": "EX92026030142",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0142",
+    "unit_serial": "EX92026030143",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0143",
+    "unit_serial": "EX92026030144",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0144",
+    "unit_serial": "EX92026030145",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0145",
+    "unit_serial": "EX92026030146",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0146",
+    "unit_serial": "EX92026030147",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0147",
+    "unit_serial": "EX92026030148",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0148",
+    "unit_serial": "EX92026030149",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0149",
+    "unit_serial": "EX92026030150",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0150",
+    "unit_serial": "EX92026030151",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0151",
+    "unit_serial": "EX92026030152",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0152",
+    "unit_serial": "EX92026030153",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0153",
+    "unit_serial": "EX92026030154",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0154",
+    "unit_serial": "EX92026030155",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0155",
+    "unit_serial": "EX92026030156",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0156",
+    "unit_serial": "EX92026030157",
+    "technician_name": "Bayu Firmansyah",
     "was_fixed_first_visit": true,
     "cycle_time_days": 10,
     "status": "finished",
     "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0062",
-    "unit_serial": "EX92026030029",
-    "technician_name": "Febri Santoso",
+    "ticket_id": "TKT-0157",
+    "unit_serial": "EX92026030158",
+    "technician_name": "Agus Salim",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 13,
+    "cycle_time_days": 2,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0063",
-    "unit_serial": "EX92026030030",
-    "technician_name": "Febri Santoso",
+    "ticket_id": "TKT-0158",
+    "unit_serial": "EX92026030159",
+    "technician_name": "Fajar Nugraha",
     "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0159",
+    "unit_serial": "EX92026030160",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0160",
+    "unit_serial": "EX92026030161",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
     "cycle_time_days": 7,
     "status": "finished",
-    "job_category": "maintenance"
+    "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0064",
-    "unit_serial": "EX92026030031",
-    "technician_name": "Arga Wibowo",
+    "ticket_id": "TKT-0161",
+    "unit_serial": "EX92026030162",
+    "technician_name": "Slamet Riyadi",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 2,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0162",
+    "unit_serial": "EX92026030163",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0163",
+    "unit_serial": "EX92026030164",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0164",
+    "unit_serial": "EX92026030165",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 3,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0065",
-    "unit_serial": "EX92026030032",
+    "ticket_id": "TKT-0165",
+    "unit_serial": "EX92026030166",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0166",
+    "unit_serial": "EX92026030167",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0167",
+    "unit_serial": "EX92026030168",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0168",
+    "unit_serial": "EX92026030169",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0169",
+    "unit_serial": "EX92026030170",
     "technician_name": "Dedi Kurniawan",
     "was_fixed_first_visit": true,
     "cycle_time_days": 6,
     "status": "finished",
-    "job_category": "survey"
+    "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0066",
-    "unit_serial": "EX92026030033",
-    "technician_name": "Febri Santoso",
+    "ticket_id": "TKT-0170",
+    "unit_serial": "EX92026030171",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0171",
+    "unit_serial": "EX92026030172",
+    "technician_name": "Toni Wijaya",
     "was_fixed_first_visit": true,
     "cycle_time_days": 8,
     "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0172",
+    "unit_serial": "EX92026030173",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0067",
-    "unit_serial": "EX92026030034",
-    "technician_name": "Febri Santoso",
+    "ticket_id": "TKT-0173",
+    "unit_serial": "EX92026030174",
+    "technician_name": "Bagus Setiawan",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
+    "cycle_time_days": 10,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0068",
-    "unit_serial": "EX92026030001",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 13,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0069",
-    "unit_serial": "EX92026030002",
-    "technician_name": "Arga Wibowo",
+    "ticket_id": "TKT-0174",
+    "unit_serial": "EX92026030175",
+    "technician_name": "Ivan Kurnia",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 12,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "survey"
   },
   {
-    "ticket_id": "TKT-0070",
-    "unit_serial": "EX92026030003",
-    "technician_name": "Yudi Pratama",
+    "ticket_id": "TKT-0175",
+    "unit_serial": "EX92026030176",
+    "technician_name": "Arga Wibowo",
     "was_fixed_first_visit": true,
     "cycle_time_days": 2,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0071",
-    "unit_serial": "EX92026030004",
-    "technician_name": "Arga Wibowo",
+    "ticket_id": "TKT-0176",
+    "unit_serial": "EX92026030177",
+    "technician_name": "Bambang Sutrisno",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 8,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0072",
-    "unit_serial": "EX92026030005",
-    "technician_name": "Dedi Kurniawan",
+    "ticket_id": "TKT-0177",
+    "unit_serial": "EX92026030178",
+    "technician_name": "Slamet Riyadi",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
+    "cycle_time_days": 3,
     "status": "finished",
-    "job_category": "survey"
+    "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0073",
-    "unit_serial": "EX92026030006",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
-    "status": "finished",
-    "job_category": "training"
-  },
-  {
-    "ticket_id": "TKT-0074",
-    "unit_serial": "EX92026030007",
-    "technician_name": "Arga Wibowo",
+    "ticket_id": "TKT-0178",
+    "unit_serial": "EX92026030179",
+    "technician_name": "Bagus Setiawan",
     "was_fixed_first_visit": false,
     "cycle_time_days": 3,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0075",
-    "unit_serial": "EX92026030008",
+    "ticket_id": "TKT-0179",
+    "unit_serial": "EX92026030180",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0180",
+    "unit_serial": "EX92026030181",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0181",
+    "unit_serial": "EX92026030182",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0182",
+    "unit_serial": "EX92026030183",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0183",
+    "unit_serial": "EX92026030184",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0184",
+    "unit_serial": "EX92026030185",
     "technician_name": "Febri Santoso",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
+    "cycle_time_days": 4,
     "status": "finished",
-    "job_category": "maintenance"
+    "job_category": "survey"
   },
   {
-    "ticket_id": "TKT-0076",
-    "unit_serial": "EX92026030009",
-    "technician_name": "Yudi Pratama",
+    "ticket_id": "TKT-0185",
+    "unit_serial": "EX92026030186",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0186",
+    "unit_serial": "EX92026030187",
+    "technician_name": "Arman Hakim",
     "was_fixed_first_visit": false,
     "cycle_time_days": 7,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0077",
-    "unit_serial": "EX92026030010",
+    "ticket_id": "TKT-0187",
+    "unit_serial": "EX92026030188",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0188",
+    "unit_serial": "EX92026030189",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0189",
+    "unit_serial": "EX92026030190",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0190",
+    "unit_serial": "EX92026030191",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0191",
+    "unit_serial": "EX92026030192",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0192",
+    "unit_serial": "EX92026030193",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0193",
+    "unit_serial": "EX92026030194",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0194",
+    "unit_serial": "EX92026030195",
     "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
+    "cycle_time_days": 12,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0078",
-    "unit_serial": "EX92026030011",
+    "ticket_id": "TKT-0195",
+    "unit_serial": "EX92026030196",
     "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
+    "was_fixed_first_visit": false,
     "cycle_time_days": 9,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0079",
-    "unit_serial": "EX92026030012",
+    "ticket_id": "TKT-0196",
+    "unit_serial": "EX92026030197",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0197",
+    "unit_serial": "EX92026030198",
     "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0080",
-    "unit_serial": "EX92026030013",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 7,
-    "status": "finished",
-    "job_category": "survey"
-  },
-  {
-    "ticket_id": "TKT-0081",
-    "unit_serial": "EX92026030014",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 13,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0082",
-    "unit_serial": "EX92026030015",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
+    "cycle_time_days": 17,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0083",
-    "unit_serial": "EX92026030016",
-    "technician_name": "Dedi Kurniawan",
+    "ticket_id": "TKT-0198",
+    "unit_serial": "EX92026030199",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0199",
+    "unit_serial": "EX92026030200",
+    "technician_name": "Rizal Fahmi",
     "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0200",
+    "unit_serial": "EX92026030201",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0201",
+    "unit_serial": "EX92026030202",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0202",
+    "unit_serial": "EX92026030203",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0203",
+    "unit_serial": "EX92026030204",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0204",
+    "unit_serial": "EX92026030205",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0205",
+    "unit_serial": "EX92026030206",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0206",
+    "unit_serial": "EX92026030207",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
     "cycle_time_days": 11,
     "status": "finished",
     "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0084",
-    "unit_serial": "EX92026030017",
-    "technician_name": "Yudi Pratama",
+    "ticket_id": "TKT-0207",
+    "unit_serial": "EX92026030208",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0208",
+    "unit_serial": "EX92026030209",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0209",
+    "unit_serial": "EX92026030210",
+    "technician_name": "Bayu Firmansyah",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0210",
+    "unit_serial": "EX92026030211",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0211",
+    "unit_serial": "EX92026030212",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0212",
+    "unit_serial": "EX92026030213",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0213",
+    "unit_serial": "EX92026030214",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0214",
+    "unit_serial": "EX92026030215",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0215",
+    "unit_serial": "EX92026030216",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
     "status": "finished",
     "job_category": "training"
   },
   {
-    "ticket_id": "TKT-0085",
-    "unit_serial": "EX92026030018",
+    "ticket_id": "TKT-0216",
+    "unit_serial": "EX92026030217",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0217",
+    "unit_serial": "EX92026030218",
     "technician_name": "Dedi Kurniawan",
     "was_fixed_first_visit": true,
     "cycle_time_days": 5,
@@ -765,53 +1953,116 @@
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0086",
-    "unit_serial": "EX92026030019",
-    "technician_name": "Febri Santoso",
+    "ticket_id": "TKT-0218",
+    "unit_serial": "EX92026030219",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0219",
+    "unit_serial": "EX92026030220",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0220",
+    "unit_serial": "EX92026030221",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0221",
+    "unit_serial": "EX92026030222",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0222",
+    "unit_serial": "EX92026030223",
+    "technician_name": "Arman Hakim",
     "was_fixed_first_visit": true,
     "cycle_time_days": 8,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0087",
-    "unit_serial": "EX92026030020",
-    "technician_name": "Yudi Pratama",
+    "ticket_id": "TKT-0223",
+    "unit_serial": "EX92026030224",
+    "technician_name": "Dedi Kurniawan",
     "was_fixed_first_visit": true,
     "cycle_time_days": 13,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0088",
-    "unit_serial": "EX92026030021",
+    "ticket_id": "TKT-0224",
+    "unit_serial": "EX92026030225",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0225",
+    "unit_serial": "EX92026030226",
     "technician_name": "Dedi Kurniawan",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 8,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0226",
+    "unit_serial": "EX92026030227",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0089",
-    "unit_serial": "EX92026030022",
+    "ticket_id": "TKT-0227",
+    "unit_serial": "EX92026030228",
     "technician_name": "Febri Santoso",
     "was_fixed_first_visit": false,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0228",
+    "unit_serial": "EX92026030229",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0229",
+    "unit_serial": "EX92026030230",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
     "cycle_time_days": 6,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0090",
-    "unit_serial": "EX92026030023",
-    "technician_name": "Arman Hakim",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 2,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0091",
-    "unit_serial": "EX92026030024",
+    "ticket_id": "TKT-0230",
+    "unit_serial": "EX92026030231",
     "technician_name": "Febri Santoso",
     "was_fixed_first_visit": true,
     "cycle_time_days": 9,
@@ -819,264 +2070,2613 @@
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0092",
+    "ticket_id": "TKT-0231",
+    "unit_serial": "EX92026030232",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0232",
+    "unit_serial": "EX92026030233",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0233",
+    "unit_serial": "EX92026030234",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0234",
+    "unit_serial": "EX92026030235",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0235",
+    "unit_serial": "EX92026030236",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0236",
+    "unit_serial": "EX92026030237",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0237",
+    "unit_serial": "EX92026030238",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0238",
+    "unit_serial": "EX92026030239",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0239",
+    "unit_serial": "EX92026030240",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0240",
+    "unit_serial": "EX92026030001",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0241",
+    "unit_serial": "EX92026030002",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0242",
+    "unit_serial": "EX92026030003",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0243",
+    "unit_serial": "EX92026030004",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0244",
+    "unit_serial": "EX92026030005",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0245",
+    "unit_serial": "EX92026030006",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0246",
+    "unit_serial": "EX92026030007",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0247",
+    "unit_serial": "EX92026030008",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0248",
+    "unit_serial": "EX92026030009",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0249",
+    "unit_serial": "EX92026030010",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0250",
+    "unit_serial": "EX92026030011",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0251",
+    "unit_serial": "EX92026030012",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0252",
+    "unit_serial": "EX92026030013",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0253",
+    "unit_serial": "EX92026030014",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0254",
+    "unit_serial": "EX92026030015",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0255",
+    "unit_serial": "EX92026030016",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0256",
+    "unit_serial": "EX92026030017",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0257",
+    "unit_serial": "EX92026030018",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0258",
+    "unit_serial": "EX92026030019",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0259",
+    "unit_serial": "EX92026030020",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0260",
+    "unit_serial": "EX92026030021",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0261",
+    "unit_serial": "EX92026030022",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0262",
+    "unit_serial": "EX92026030023",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0263",
+    "unit_serial": "EX92026030024",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0264",
+    "unit_serial": "EX92026030025",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0265",
+    "unit_serial": "EX92026030026",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0266",
+    "unit_serial": "EX92026030027",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0267",
+    "unit_serial": "EX92026030028",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0268",
+    "unit_serial": "EX92026030029",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0269",
+    "unit_serial": "EX92026030030",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0270",
+    "unit_serial": "EX92026030031",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0271",
+    "unit_serial": "EX92026030032",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0272",
+    "unit_serial": "EX92026030033",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0273",
+    "unit_serial": "EX92026030034",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0274",
+    "unit_serial": "EX92026030035",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0275",
+    "unit_serial": "EX92026030036",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0276",
+    "unit_serial": "EX92026030037",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0277",
+    "unit_serial": "EX92026030038",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0278",
+    "unit_serial": "EX92026030039",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0279",
+    "unit_serial": "EX92026030040",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0280",
+    "unit_serial": "EX92026030041",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0281",
+    "unit_serial": "EX92026030042",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0282",
+    "unit_serial": "EX92026030043",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0283",
+    "unit_serial": "EX92026030044",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0284",
+    "unit_serial": "EX92026030045",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0285",
+    "unit_serial": "EX92026030046",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0286",
+    "unit_serial": "EX92026030047",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0287",
+    "unit_serial": "EX92026030048",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0288",
+    "unit_serial": "EX92026030049",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0289",
+    "unit_serial": "EX92026030050",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0290",
+    "unit_serial": "EX92026030051",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0291",
+    "unit_serial": "EX92026030052",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0292",
+    "unit_serial": "EX92026030053",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0293",
+    "unit_serial": "EX92026030054",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0294",
+    "unit_serial": "EX92026030055",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0295",
+    "unit_serial": "EX92026030056",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0296",
+    "unit_serial": "EX92026030057",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0297",
+    "unit_serial": "EX92026030058",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0298",
+    "unit_serial": "EX92026030059",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0299",
+    "unit_serial": "EX92026030060",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0300",
+    "unit_serial": "EX92026030061",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0301",
+    "unit_serial": "EX92026030062",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0302",
+    "unit_serial": "EX92026030063",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0303",
+    "unit_serial": "EX92026030064",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0304",
+    "unit_serial": "EX92026030065",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0305",
+    "unit_serial": "EX92026030066",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0306",
+    "unit_serial": "EX92026030067",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0307",
+    "unit_serial": "EX92026030068",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0308",
+    "unit_serial": "EX92026030069",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0309",
+    "unit_serial": "EX92026030070",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0310",
+    "unit_serial": "EX92026030071",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0311",
+    "unit_serial": "EX92026030072",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0312",
+    "unit_serial": "EX92026030073",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0313",
+    "unit_serial": "EX92026030074",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0314",
+    "unit_serial": "EX92026030075",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0315",
+    "unit_serial": "EX92026030076",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0316",
+    "unit_serial": "EX92026030077",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0317",
+    "unit_serial": "EX92026030078",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0318",
+    "unit_serial": "EX92026030079",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0319",
+    "unit_serial": "EX92026030080",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0320",
+    "unit_serial": "EX92026030081",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0321",
+    "unit_serial": "EX92026030082",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0322",
+    "unit_serial": "EX92026030083",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0323",
+    "unit_serial": "EX92026030084",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0324",
+    "unit_serial": "EX92026030085",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0325",
+    "unit_serial": "EX92026030086",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0326",
+    "unit_serial": "EX92026030087",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0327",
+    "unit_serial": "EX92026030088",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0328",
+    "unit_serial": "EX92026030089",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0329",
+    "unit_serial": "EX92026030090",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0330",
+    "unit_serial": "EX92026030091",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0331",
+    "unit_serial": "EX92026030092",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0332",
+    "unit_serial": "EX92026030093",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0333",
+    "unit_serial": "EX92026030094",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0334",
+    "unit_serial": "EX92026030095",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0335",
+    "unit_serial": "EX92026030096",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0336",
+    "unit_serial": "EX92026030097",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0337",
+    "unit_serial": "EX92026030098",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0338",
+    "unit_serial": "EX92026030099",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0339",
+    "unit_serial": "EX92026030100",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0340",
+    "unit_serial": "EX92026030101",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0341",
+    "unit_serial": "EX92026030102",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0342",
+    "unit_serial": "EX92026030103",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0343",
+    "unit_serial": "EX92026030104",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0344",
+    "unit_serial": "EX92026030105",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0345",
+    "unit_serial": "EX92026030106",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0346",
+    "unit_serial": "EX92026030107",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0347",
+    "unit_serial": "EX92026030108",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0348",
+    "unit_serial": "EX92026030109",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0349",
+    "unit_serial": "EX92026030110",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0350",
+    "unit_serial": "EX92026030111",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0351",
+    "unit_serial": "EX92026030112",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0352",
+    "unit_serial": "EX92026030113",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0353",
+    "unit_serial": "EX92026030114",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0354",
+    "unit_serial": "EX92026030115",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0355",
+    "unit_serial": "EX92026030116",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0356",
+    "unit_serial": "EX92026030117",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0357",
+    "unit_serial": "EX92026030118",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0358",
+    "unit_serial": "EX92026030119",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0359",
+    "unit_serial": "EX92026030120",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0360",
+    "unit_serial": "EX92026030121",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0361",
+    "unit_serial": "EX92026030122",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0362",
+    "unit_serial": "EX92026030123",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0363",
+    "unit_serial": "EX92026030124",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0364",
+    "unit_serial": "EX92026030125",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0365",
+    "unit_serial": "EX92026030126",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0366",
+    "unit_serial": "EX92026030127",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0367",
+    "unit_serial": "EX92026030128",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0368",
+    "unit_serial": "EX92026030129",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0369",
+    "unit_serial": "EX92026030130",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0370",
+    "unit_serial": "EX92026030131",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0371",
+    "unit_serial": "EX92026030132",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0372",
+    "unit_serial": "EX92026030133",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0373",
+    "unit_serial": "EX92026030134",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0374",
+    "unit_serial": "EX92026030135",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0375",
+    "unit_serial": "EX92026030136",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0376",
+    "unit_serial": "EX92026030137",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0377",
+    "unit_serial": "EX92026030138",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0378",
+    "unit_serial": "EX92026030139",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0379",
+    "unit_serial": "EX92026030140",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0380",
+    "unit_serial": "EX92026030141",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0381",
+    "unit_serial": "EX92026030142",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0382",
+    "unit_serial": "EX92026030143",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0383",
+    "unit_serial": "EX92026030144",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0384",
+    "unit_serial": "EX92026030145",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0385",
+    "unit_serial": "EX92026030146",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0386",
+    "unit_serial": "EX92026030147",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0387",
+    "unit_serial": "EX92026030148",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0388",
+    "unit_serial": "EX92026030149",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0389",
+    "unit_serial": "EX92026030150",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0390",
+    "unit_serial": "EX92026030151",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0391",
+    "unit_serial": "EX92026030152",
+    "technician_name": "Agus Salim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0392",
+    "unit_serial": "EX92026030153",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0393",
+    "unit_serial": "EX92026030154",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0394",
+    "unit_serial": "EX92026030155",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0395",
+    "unit_serial": "EX92026030156",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0396",
+    "unit_serial": "EX92026030157",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0397",
+    "unit_serial": "EX92026030158",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0398",
+    "unit_serial": "EX92026030159",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0399",
+    "unit_serial": "EX92026030160",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0400",
+    "unit_serial": "EX92026030161",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0401",
+    "unit_serial": "EX92026030162",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0402",
+    "unit_serial": "EX92026030163",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0403",
+    "unit_serial": "EX92026030164",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0404",
+    "unit_serial": "EX92026030165",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0405",
+    "unit_serial": "EX92026030166",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0406",
+    "unit_serial": "EX92026030167",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0407",
+    "unit_serial": "EX92026030168",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0408",
+    "unit_serial": "EX92026030169",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0409",
+    "unit_serial": "EX92026030170",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 11,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0410",
+    "unit_serial": "EX92026030171",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0411",
+    "unit_serial": "EX92026030172",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0412",
+    "unit_serial": "EX92026030173",
+    "technician_name": "Arman Hakim",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0413",
+    "unit_serial": "EX92026030174",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0414",
+    "unit_serial": "EX92026030175",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0415",
+    "unit_serial": "EX92026030176",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0416",
+    "unit_serial": "EX92026030177",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0417",
+    "unit_serial": "EX92026030178",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0418",
+    "unit_serial": "EX92026030179",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0419",
+    "unit_serial": "EX92026030180",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0420",
+    "unit_serial": "EX92026030181",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0421",
+    "unit_serial": "EX92026030182",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0422",
+    "unit_serial": "EX92026030183",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0423",
+    "unit_serial": "EX92026030184",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0424",
+    "unit_serial": "EX92026030185",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0425",
+    "unit_serial": "EX92026030186",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0426",
+    "unit_serial": "EX92026030187",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0427",
+    "unit_serial": "EX92026030188",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0428",
+    "unit_serial": "EX92026030189",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0429",
+    "unit_serial": "EX92026030190",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0430",
+    "unit_serial": "EX92026030191",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0431",
+    "unit_serial": "EX92026030192",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0432",
+    "unit_serial": "EX92026030193",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0433",
+    "unit_serial": "EX92026030194",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0434",
+    "unit_serial": "EX92026030195",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0435",
+    "unit_serial": "EX92026030196",
+    "technician_name": "Andre Simatupang",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0436",
+    "unit_serial": "EX92026030197",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0437",
+    "unit_serial": "EX92026030198",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0438",
+    "unit_serial": "EX92026030199",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0439",
+    "unit_serial": "EX92026030200",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0440",
+    "unit_serial": "EX92026030201",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0441",
+    "unit_serial": "EX92026030202",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0442",
+    "unit_serial": "EX92026030203",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0443",
+    "unit_serial": "EX92026030204",
+    "technician_name": "Bambang Sutrisno",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0444",
+    "unit_serial": "EX92026030205",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0445",
+    "unit_serial": "EX92026030206",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0446",
+    "unit_serial": "EX92026030207",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0447",
+    "unit_serial": "EX92026030208",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0448",
+    "unit_serial": "EX92026030209",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0449",
+    "unit_serial": "EX92026030210",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0450",
+    "unit_serial": "EX92026030211",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0451",
+    "unit_serial": "EX92026030212",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0452",
+    "unit_serial": "EX92026030213",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0453",
+    "unit_serial": "EX92026030214",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0454",
+    "unit_serial": "EX92026030215",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 6,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0455",
+    "unit_serial": "EX92026030216",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0456",
+    "unit_serial": "EX92026030217",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0457",
+    "unit_serial": "EX92026030218",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0458",
+    "unit_serial": "EX92026030219",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0459",
+    "unit_serial": "EX92026030220",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 15,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0460",
+    "unit_serial": "EX92026030221",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0461",
+    "unit_serial": "EX92026030222",
+    "technician_name": "Bagus Setiawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0462",
+    "unit_serial": "EX92026030223",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0463",
+    "unit_serial": "EX92026030224",
+    "technician_name": "Rudi Hartanto",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0464",
+    "unit_serial": "EX92026030225",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0465",
+    "unit_serial": "EX92026030226",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0466",
+    "unit_serial": "EX92026030227",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0467",
+    "unit_serial": "EX92026030228",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0468",
+    "unit_serial": "EX92026030229",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0469",
+    "unit_serial": "EX92026030230",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0470",
+    "unit_serial": "EX92026030231",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0471",
+    "unit_serial": "EX92026030232",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0472",
+    "unit_serial": "EX92026030233",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0473",
+    "unit_serial": "EX92026030234",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0474",
+    "unit_serial": "EX92026030235",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0475",
+    "unit_serial": "EX92026030236",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0476",
+    "unit_serial": "EX92026030237",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0477",
+    "unit_serial": "EX92026030238",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0478",
+    "unit_serial": "EX92026030239",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0479",
+    "unit_serial": "EX92026030240",
+    "technician_name": "Slamet Riyadi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 14,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0480",
+    "unit_serial": "EX92026030001",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0481",
+    "unit_serial": "EX92026030002",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 13,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0482",
+    "unit_serial": "EX92026030003",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0483",
+    "unit_serial": "EX92026030004",
+    "technician_name": "Toni Wijaya",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0484",
+    "unit_serial": "EX92026030005",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0485",
+    "unit_serial": "EX92026030006",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0486",
+    "unit_serial": "EX92026030007",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0487",
+    "unit_serial": "EX92026030008",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0488",
+    "unit_serial": "EX92026030009",
+    "technician_name": "Arga Wibowo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0489",
+    "unit_serial": "EX92026030010",
+    "technician_name": "Febri Santoso",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0490",
+    "unit_serial": "EX92026030011",
+    "technician_name": "Gilang Ramadhan",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0491",
+    "unit_serial": "EX92026030012",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0492",
+    "unit_serial": "EX92026030013",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0493",
+    "unit_serial": "EX92026030014",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0494",
+    "unit_serial": "EX92026030015",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0495",
+    "unit_serial": "EX92026030016",
+    "technician_name": "Doni Saputra",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0496",
+    "unit_serial": "EX92026030017",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0497",
+    "unit_serial": "EX92026030018",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0498",
+    "unit_serial": "EX92026030019",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 9,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0499",
+    "unit_serial": "EX92026030020",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0500",
+    "unit_serial": "EX92026030021",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0501",
+    "unit_serial": "EX92026030022",
+    "technician_name": "Wayan Sudira",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 8,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0502",
+    "unit_serial": "EX92026030023",
+    "technician_name": "Bayu Firmansyah",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 17,
+    "status": "finished",
+    "job_category": "training"
+  },
+  {
+    "ticket_id": "TKT-0503",
+    "unit_serial": "EX92026030024",
+    "technician_name": "Rizal Fahmi",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 4,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0504",
     "unit_serial": "EX92026030025",
     "technician_name": "Yudi Pratama",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 11,
-    "status": "finished",
-    "job_category": "installation"
-  },
-  {
-    "ticket_id": "TKT-0093",
-    "unit_serial": "EX92026030026",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0094",
-    "unit_serial": "EX92026030027",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0095",
-    "unit_serial": "EX92026030028",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 9,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0096",
-    "unit_serial": "EX92026030029",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0097",
-    "unit_serial": "EX92026030030",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0098",
-    "unit_serial": "EX92026030031",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 4,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0099",
-    "unit_serial": "EX92026030032",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 11,
-    "status": "finished",
-    "job_category": "survey"
-  },
-  {
-    "ticket_id": "TKT-0100",
-    "unit_serial": "EX92026030033",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 5,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0101",
-    "unit_serial": "EX92026030034",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
-    "status": "finished",
-    "job_category": "training"
-  },
-  {
-    "ticket_id": "TKT-0102",
-    "unit_serial": "EX92026030001",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 7,
-    "status": "finished",
-    "job_category": "training"
-  },
-  {
-    "ticket_id": "TKT-0103",
-    "unit_serial": "EX92026030002",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 4,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0104",
-    "unit_serial": "EX92026030003",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
-    "status": "finished",
-    "job_category": "installation"
-  },
-  {
-    "ticket_id": "TKT-0105",
-    "unit_serial": "EX92026030004",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 4,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0106",
-    "unit_serial": "EX92026030005",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
     "cycle_time_days": 8,
     "status": "finished",
     "job_category": "survey"
   },
   {
-    "ticket_id": "TKT-0107",
-    "unit_serial": "EX92026030006",
-    "technician_name": "Yudi Pratama",
+    "ticket_id": "TKT-0505",
+    "unit_serial": "EX92026030026",
+    "technician_name": "Andre Simatupang",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
+    "cycle_time_days": 15,
     "status": "finished",
     "job_category": "maintenance"
   },
   {
-    "ticket_id": "TKT-0108",
-    "unit_serial": "EX92026030007",
-    "technician_name": "Febri Santoso",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 7,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0109",
-    "unit_serial": "EX92026030008",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0110",
-    "unit_serial": "EX92026030009",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0111",
-    "unit_serial": "EX92026030010",
-    "technician_name": "Arga Wibowo",
-    "was_fixed_first_visit": false,
-    "cycle_time_days": 13,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0112",
-    "unit_serial": "EX92026030011",
+    "ticket_id": "TKT-0506",
+    "unit_serial": "EX92026030027",
     "technician_name": "Arman Hakim",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 6,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0113",
-    "unit_serial": "EX92026030012",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 12,
-    "status": "finished",
-    "job_category": "service"
-  },
-  {
-    "ticket_id": "TKT-0114",
-    "unit_serial": "EX92026030013",
-    "technician_name": "Yudi Pratama",
-    "was_fixed_first_visit": true,
-    "cycle_time_days": 13,
-    "status": "finished",
-    "job_category": "maintenance"
-  },
-  {
-    "ticket_id": "TKT-0115",
-    "unit_serial": "EX92026030014",
-    "technician_name": "Dedi Kurniawan",
-    "was_fixed_first_visit": true,
+    "was_fixed_first_visit": false,
     "cycle_time_days": 2,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0116",
-    "unit_serial": "EX92026030015",
-    "technician_name": "Dedi Kurniawan",
+    "ticket_id": "TKT-0507",
+    "unit_serial": "EX92026030028",
+    "technician_name": "Doni Saputra",
     "was_fixed_first_visit": false,
-    "cycle_time_days": 5,
+    "cycle_time_days": 10,
     "status": "finished",
-    "job_category": "service"
+    "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0117",
-    "unit_serial": "EX92026030016",
-    "technician_name": "Febri Santoso",
+    "ticket_id": "TKT-0508",
+    "unit_serial": "EX92026030029",
+    "technician_name": "Agus Salim",
     "was_fixed_first_visit": true,
+    "cycle_time_days": 3,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0509",
+    "unit_serial": "EX92026030030",
+    "technician_name": "Dedi Kurniawan",
+    "was_fixed_first_visit": false,
     "cycle_time_days": 6,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0118",
-    "unit_serial": "EX92026030017",
-    "technician_name": "Dedi Kurniawan",
+    "ticket_id": "TKT-0510",
+    "unit_serial": "EX92026030031",
+    "technician_name": "Gilang Ramadhan",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 3,
+    "cycle_time_days": 7,
     "status": "finished",
-    "job_category": "training"
+    "job_category": "installation"
   },
   {
-    "ticket_id": "TKT-0119",
-    "unit_serial": "EX92026030018",
-    "technician_name": "Dedi Kurniawan",
+    "ticket_id": "TKT-0511",
+    "unit_serial": "EX92026030032",
+    "technician_name": "Made Adnyana",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 10,
+    "status": "finished",
+    "job_category": "survey"
+  },
+  {
+    "ticket_id": "TKT-0512",
+    "unit_serial": "EX92026030033",
+    "technician_name": "Ivan Kurnia",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 5,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0513",
+    "unit_serial": "EX92026030034",
+    "technician_name": "Hendra Gunawan",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 12,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0514",
+    "unit_serial": "EX92026030035",
+    "technician_name": "Wahyu Utomo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0515",
+    "unit_serial": "EX92026030036",
+    "technician_name": "Eko Prasetyo",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0516",
+    "unit_serial": "EX92026030037",
+    "technician_name": "Yudi Pratama",
+    "was_fixed_first_visit": true,
+    "cycle_time_days": 7,
+    "status": "finished",
+    "job_category": "maintenance"
+  },
+  {
+    "ticket_id": "TKT-0517",
+    "unit_serial": "EX92026030038",
+    "technician_name": "Rendi Pranata",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 2,
+    "status": "finished",
+    "job_category": "installation"
+  },
+  {
+    "ticket_id": "TKT-0518",
+    "unit_serial": "EX92026030039",
+    "technician_name": "Wahyu Utomo",
     "was_fixed_first_visit": true,
     "cycle_time_days": 4,
     "status": "finished",
     "job_category": "service"
   },
   {
-    "ticket_id": "TKT-0120",
-    "unit_serial": "EX92026030019",
-    "technician_name": "Dedi Kurniawan",
+    "ticket_id": "TKT-0519",
+    "unit_serial": "EX92026030040",
+    "technician_name": "Bambang Sutrisno",
     "was_fixed_first_visit": true,
-    "cycle_time_days": 9,
+    "cycle_time_days": 10,
     "status": "finished",
     "job_category": "service"
+  },
+  {
+    "ticket_id": "TKT-0520",
+    "unit_serial": "EX92026030041",
+    "technician_name": "Fajar Nugraha",
+    "was_fixed_first_visit": false,
+    "cycle_time_days": 16,
+    "status": "finished",
+    "job_category": "installation"
   }
 ]
